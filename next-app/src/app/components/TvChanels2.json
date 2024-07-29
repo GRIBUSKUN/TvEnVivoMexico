@@ -1,0 +1,2957 @@
+[
+    {
+        "groupTitle": "Bics",
+        "coverImg": "data:image/png;base64,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",
+        "chanel": "LAS ESTRELLAS LATAM",
+        "country": "LA",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics",
+        "coverImg": "https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa_detalles.png?w=600&ssl=1",
+        "chanel": "LAS ESTRELLAS MX",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8",
+            "https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics",
+        "coverImg": "https://yt3.googleusercontent.com/phG3wG22EQSsOC2CfDu6hemmIUblbSOZFra0qoed_-l7DlshAtMxqb0S6mgkbXMsWNtem4hS=s900-c-k-c0x00ffffff-no-rj",
+        "chanel": "4 GDL",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiwTlZfRObyJnYSpBYQehtIZrCwMe8DOORR4DUgk8UFOFIMQqbuHvRkvnTVBUXVBFAdow&usqp=CAU",
+        "chanel": "8 MTY",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics",
+        "coverImg": "https://logowik.com/content/uploads/images/canal-golden1303.logowik.com.webp",
+        "chanel": "GOLDEN PLUS",
+        "country": "LA",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics",
+        "coverImg": "https://yt3.googleusercontent.com/qFkd6lZgU09CvQP-6pJggpIlXwW4h0TLM8DvtHGTsOteRWmFYstP8OyypJvtOekV2bHXikxBRg=s900-c-k-c0x00ffffff-no-rj",
+        "chanel": "EURO NEWS",
+        "country": "ES",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics",
+        "coverImg": "https://i.ytimg.com/vi/s71DkjyZOjM/maxresdefault.jpg",
+        "chanel": "ATVPE",
+        "country": "PE",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics",
+        "coverImg": "data:image/jpeg;base64,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",
+        "chanel": "TN23",
+        "country": "GT",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics",
+        "coverImg": "https://yt3.googleusercontent.com/BYR9SpElYOSQ9yn4rMTNjRrYa4fVpQm4ijzVfXt_qSITzr-3NfL7dctx_hohnUsZijonvtWr=s900-c-k-c0x00ffffff-no-rj",
+        "chanel": "VIVO PLAY",
+        "country": "VE",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics",
+        "coverImg": "data:image/png;base64,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",
+        "chanel": "NUESTRA VISION",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics",
+        "coverImg": "https://yt3.googleusercontent.com/8uCeis8LTNaYugKJiyM9k6jc2RzaRxpqmZN4A9TzirCQ26ykkrnosKyGzS9iNmhujOxa77yf8Q=s900-c-k-c0x00ffffff-no-rj",
+        "chanel": "TIGO SPORTS",
+        "country": "LA",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics",
+        "coverImg": "https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg",
+        "chanel": "REAL MADRID TV",
+        "country": "ES",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "https://image.roku.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-04-at-11.04.47-AM.png",
+        "chanel": "ADN 40",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "https://play-lh.googleusercontent.com/pdR3T7q76EgpHST-u4ZqnZDKpn4sC_l6GrtqDS8KME3kCxs3WzF97-0DOmch1in1ok4",
+        "chanel": "MILENIO",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "https://play-lh.googleusercontent.com/SsgxqImo9So7F9YI3ingfzDcmRrv4nT1S06b8axNs_uqOksC08BuUo8QxjgZlXv3LT8",
+        "chanel": "MARIA VISION",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "https://play-lh.googleusercontent.com/SsgxqImo9So7F9YI3ingfzDcmRrv4nT1S06b8axNs_uqOksC08BuUo8QxjgZlXv3LT8",
+        "chanel": "MARIA VISION CAPILLA",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "https://image.roku.com/developer_channels/prod/eda589f0ebf775bae42f1fde786d451321809a4afbaf2ac4c3bfc97489ce7278.png",
+        "chanel": "CANAL 57 USA",
+        "country": "USA",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "https://yt3.googleusercontent.com/E9h60eNroooHkpDNRbbsID98UrHsFLGBozzhjRxHe3O_cL8HogAY2BGvCuQXrnv0cApYYscaJpY=s900-c-k-c0x00ffffff-no-rj",
+        "chanel": "ESTRELLA TV USA",
+        "country": "USA",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://estrellatv-plex.amagi.tv/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "https://prensa.televisa.com/wp-content/uploads/2022/02/univision.jpg",
+        "chanel": "UNIVISION LATAM",
+        "country": "LA",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/rcn-xtra_2.png",
+        "chanel": "RCN EXTRA CO",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s1366/rcnmas.jpg",
+        "chanel": "RCN Mas CO",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png",
+        "chanel": "Todo Noticias AR",
+        "country": "AR",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://live-01-01-tn.vodgc.net/TN24/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "data:image/png;base64,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",
+        "chanel": "TELEMUNDO CA",
+        "country": "USA",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "data:image/png;base64,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",
+        "chanel": "TELEMUNDO PR",
+        "country": "PR",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "https://amariemagazine.com/wp-content/uploads/2021/04/Logo-tele11.png",
+        "chanel": "TELE ONCE PR",
+        "country": "PR",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "CANAL 34 PR",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "TVMAX PA",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://45.5.117.182:8000/play/a0ip/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "TVN PA",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "CANAL 12 SV",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "CANAL 2 CR",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "CANAL 4 CR",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://d25v5vivhcrrh5.cloudfront.net/hls/canal4.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "CANAL 6 CR",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://d25v5vivhcrrh5.cloudfront.net/hls/canal6.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "CANAL 8 CR",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "CANAL 11 CR",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "TICAVISION CR",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "TVC EC",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "RTU EC",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://177.234.230.226:8010/play/a029/index.m3u8",
+            "https://video1.makrodigital.com/rtu/rtu/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "24 HORAS CL",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://marine2.miplay.cl/24horas/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "CANAL CAPITAL CO",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "CANAL 2 CALI CO",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://video13.virtualtronics.com/streamer/canal2.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "SEÑAL COLOMBIA CO",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "CCTV 13 CH",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "NHK WORLD JP",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "NIPPON NEWS JP",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "24 HORAS ES",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://ztnr.rtve.es/ztnr/1694255.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "ABC PY",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "CNN",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "RETRO CARTOON",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "USA Retro Cartoon",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "Claro Sports",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://190.6.202.162:8000/play/a014/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "Claro Sports 2",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://45.5.117.182:8000/play/a0e5/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "Tigo Sports Guatemala",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "ITV Deportes",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "Tigo Sports",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "Golazo Network ",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "AGU Canal 26",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8",
+            "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "GDL Canal 4",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "CAM TRC Television",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "CHH Canal 28 Chihuahua",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "CHH CANAL 44",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "CMX Efekto TV",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://cdn.jwplayer.com/manifests/bez1terN.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "COA Canal 4 Saltillo",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://162.241.190.126:1935/live/canal4/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "COA 15TV Sabinas",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "DUR TV Lobo Durango",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "GUA TV Cuatro 4.2 Cultura",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "GUA TV Cuatro 4.3 Deportes",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "JAL Jalisco TV",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "MIC SMRTV Michoacan",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "MIC Canal 13 Michoacan",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "PUE Canal 16.1",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "PUE Canal 16.2",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "PUE Canal 26.1",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "PUE Canal 26.2",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "PUE TV comunicaciones Puebla",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "ROO Canal 10 Cancun",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "SON Telemax Sonora",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8",
+            "https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "TLA Tlaxcala Television",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "VER TVMAS Veracruz",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "ZAC Canal 24 Zacatecas",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa_detalles.png?w=600&ssl=1",
+        "chanel": "Las Estrellas♥",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg",
+        "chanel": "Azteca 7 Noroeste Info7 Web",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://live.info7.mx/info7/stream.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png",
+        "chanel": "ADN 40 Web",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+            "https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://blogger.googleusercontent.com/img/a/AVvXsEgv2DM2g-3zp09DmLGWO5JWVKJofVJmJqBn2Sfplg_uBC1q-AW_OJ1mX5ShLRjM48fUxyS7YscoZPqpkWa1VaZICz8fjpg3AimUeaBCw4G-sNIog3h1ERxNL1wXK0T9t0c0qLqB8ohln0Sym87cWXytLAoAEdylguiBMweIoyDRCjJET_tGzO8uo0J7WQ=w700-h400-p-k-no-nu",
+        "chanel": "XHKG TV Nayarit",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://stream.oursnetworktv.com/latin/encoder73/chunklist_w509527976.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png",
+        "chanel": "Canal 26 Tv Aguascalientes",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png",
+        "chanel": "Televisa Guadalajara Canal 4",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_6.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "Canal 44 Chihuahua",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg",
+        "chanel": "Multimedios Laguna Web",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg",
+        "chanel": "Multimedios GDL Web",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg",
+        "chanel": "Multimedios CDMX Web",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg",
+        "chanel": "Multimedios Cd Juarez Web",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg",
+        "chanel": "Multimedios Saltillo Web",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://www.tvcuatro.com/images/noticias-01.png",
+        "chanel": "TVCUATRO 4.1 Web",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8",
+            "https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8"
+
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png",
+        "chanel": "TvMas",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98xA3s0GIC-APNR2ph7oV_I3tN9ZUHbz1cA&usqp=CAU",
+        "chanel": "NRT Canal 24 Eagle Pass Tx.",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "http://www.cocolatv.com/stations_files/Telemax.png",
+        "chanel": "Telemax",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://1.bp.blogspot.com/-pWY_6BnngA4/YR97wzW2QYI/AAAAAAAAQJY/9hloXPmcdmMEW9Q5bU0Q-A7GR0qD2SCrgCLcBGAsYHQ/w320-h320/SIPSE%2BTV%2BCanc%25C3%25BAn%2Ben%2Bvivo.png",
+        "chanel": "XHCCU  Tv Cancun",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "RELIGION",
+        "coverImg": "https://static.epg.best/mx/Mariavision.mx.png",
+        "chanel": "MariaVision",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "RELIGION",
+        "coverImg": "https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png",
+        "chanel": "La Voz de Maria",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "RELIGION",
+        "coverImg": "https://www1.cbn.com/sites/default/modules/custom/cbn_nav/images/int-bg-logoLink-CBNtv.jpg",
+        "chanel": "CBN Tv Es",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "MUNDO Y CULTURA",
+        "coverImg": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAADCCAMAAAB6zFdcAAAAzFBMVEX///8NJE0AAAANJU0AAD4AAD8AADgAADsAADwNI03FyNLp6emdnZ1JSUnMzMzi4uJfX1+VnKkAG0h1dXUAH0rj5uvy8vIAE0QADkLM0NlaWlrY2NgAF0ZUVFQAEkSztsM8PDyAgIAYGBiCiZyKioqpqam2trYPDw+fpLI0NDSSkpLCwsIsLCxra2uhoaGNjY0AADQfHx9dZn5HU3BtdYshMli5ublCQkLJzdassL1RW3Z4f5XZ3OKSmKcqOV0cLVQ1QWAAACZbZIA9SmloV/8VAAARZ0lEQVR4nO1c61rqsBKFttAG8LJrKUUriIjidSsXb4B69P3f6aRpk0zStAJuiuc7WX/EkCaZlcnMZJJSKmloaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaPwu+M12DeN53vTXbWD+HDXQXreBbcKfD2fj94qdwOm8jfrd5iotzLv90TRwaAvW+2v/Zb6p4f571F8+y1YQegiVKZAXdirB26y2VAN+bTJ1rJbrlTmQ23Ks91H3f0Eh/O6rZbmorAAmourO2t+1UJt07FDVgFn2XMsadYsQ4weo98uWq5Kf0oBa1leuEC9vVhjVy3gcodB6X/xiZajPnMBTDl7QBnv6ktXC0LW+baDsBU7/t7KwaLW+HX8shPWhNAzddydDAWQEaFi0dMug9m7jFbsUTORVR3W5gea4ipakAJWR9fatYSkcM9srIzhK+kEtlRmGklkYdtwlKYwb8Kz+diTNwhwF6anywsCyLMe2LLuFPQVCJuDDRNUJaMD/tJdTAdCD87FSxLFhdAMPmcIsukHVepv9eam12+1ad9gfd6qO6/EqmA8z+GIyzKdheVUOcCet521KLWBxXy4LCyEIXv/Iy7XZHb07zG9GbCC3kkR+NXEhJd9/rwmo+ltM48wBw8KSVadDtZLi+Ok+hEJ4AZnIFytLym+pqC4KFTULEwvRoWID6FmveQFxcyY4UHSPK79Uy+Yq5lCA/Rss48yCXiDD8wM0J1UQBiGr3bXXJiDq+RdoQt+O9D8ajmmiMFxmfc4/bCBE2FndGAqwt20TXjAFbCVY4yWdVf/+h3JDmNXldqObQtuOPH0ymBWClmcvY2e1Bjd4H7bNOMF/99iwkb3Kprb5FjKjv7zcZllyFXGB+7EpAZfAqMNG5HVWi1f8MfUPMgVrWMgtOodu1aQLAdv3VZ/+UiZK1sIavf8j+K6XTBoqV1aPWv2PJN30A9dI4b1tQL5l0O/QIZjVdRJcfvh9vkSY7exvzMqffy7eMphb5TU8AkS7stakK+FuJbP0yUJ/d7xmE8PMjcLKCLZhFudsw4+ctf3zOC8Bq4TaeOBQNdiCIkyYGljrB6vNvEDZTH3I4yMoft9QZ4kj74OX+s9tFeaZirKQ80/rAm9ZC5BaxJ9k8CayQLhe+09VDdsd/VEelXkK3yDkJcXYMIpHoswrktUAla3CD1/e6dihGpRqlXhsZkqBkRtYb4rDkSFPwHicMbYPS8ruLRqLKWsRuKPChI8xv6f923DXFnHAZpGNECWFXlBNHY74LPHsjZsUc0oMmiYlzzSydr94rUAwJshKpes3iwU1Zt4UFteyPX5EhFkOpnJU22dmscP5GSdaxg3dOMm8d7jpq0nJFyvz+Goz+PKSkXcEc5zDAZ3tqjTSucUiLf4NtTbc63YdRIi851Zl5EqL4XVT0irRDKgKO4Kly+OAjlcm4YNaFiDDvBIvHh58+aRlEwW8xJTCZ+RuSFo1uhaRCMmblRoN/PK2hLaY9/nD3GOVL4Y3QkwFmHoSj5ghP5ippYJMq9BLGtSto5YYouJx0emOSVJx4b0LhnHOsovAu81CiZRE5FQVCKdQg0BtljynYG7cFkMo3cmQYvty0pgJvFutigtCeBpXmkY5q5Czkr7oEc42IWsWaPoDVURfxzlwR32G2atXbeG1zJJnYmw/opsGhFg5Wf4iwX3sHj1uMp6rXPikYa9Io+jT/uXcBedAitrms4Afp6FA2GEsaB4ChpyfruR2cUhSNsGD6aWAHyhw3zSnHMixGbeJFTlynU95VCx6sS4jDig/jh8lWxM5kCq3etN0kF3o3vGZmjF5mJl6gNHk9hIu61KpzSIEVOG1nbItmfkhViX+kMoLWwUm2ZOZM1Mb1lqFiqnYwSx4bCuIN3d4OV8MH6GcI2x2Opzyfkexo7YLTK0y7Q2k1EGeHmBFYLI60No1+coGlr1/n0pLfN7zzO2bfFofKZld4H2EF7oWHEnSKE40szjw2XEMEkJ7n69sYAbb/0kpdtdiS2heLSvgFHjqNgwyJM3VA/+NCStxwGcUHBQoHB0vUudeiuTghe5tVXoQI+UXkpO5WBFsgQMQ7YAVz9Sgni4qvanS8sgukANqD1DKHjAOVPaAzR0Svm22wC2293Rvk7Slm1tIYRJRkfagRu1B2i/kcMCv3CDBgMNciFlN7Xv8YCIXkX2WYisie9NNok0tUio+iDkwlRy8s3WPLDE+4DOJOqn08IsVphJEY/UJVZGZpOZ90qn7KX6RZxNHXOW9L/jFC7jTJaYnCaZeKm3edJR7c1ToYRPP94nlWA+Sc9SUx/ho8TCxI6gPP7ck5En63LbxZlvqXmAtj79NggXrlrRvZPag1a8xdIeTwIbaK8a0n8JhkzzpIxxByUe6X6kAKdbKQjPL9JAJSR6ZcWCWO47FEIQIgWR7KK4gMdEirpPYmXjigWY942CmU+iZ45COIpTySEwPxHlCJriSjiqCGrRtoWq5KnwbB0PiAslYCoWGSHjcTuKf5Xxiajen2tmIQYUc8okxRxw/iRmikXDll6PIbWOU02UGYbm8MritbUnuXg75hJP8JHlbdoDd8TtlJaScy8ZBpiIanrgGvz9fKNsSBXMpPYxDBDCdr27MIFSOLlwKYM3JwcqmEe8czbLkt9L5bklA15J9/Uy+mmWC9PCc5l1gDD1SXVrAa7PISDmCTw2ZKVxL/EYP3OqXHPv72GWY4roGgdesRW9zg1RjhldQbTU2C+bUBauYd97oBtY4bbhTm2DsQIKmH6PJm3NfkzK/qw4SC18KfNuEhIiwdh8o4dh2+DpU7Gh8xaSaqEJgVSrcmCK3kkCtBqjgUyaCxJwjBBWhufijwvClluG2+srLOOtc3pRiq0IwZIrgrK+E84oqD7AWtnJ7PZlBE/1g2/4B3udbiQxT/q/Y/RIFu1yI1u5/4WQItSonKJXVKwj8pEeR6VkG30UTK1CwDWsQgcZryDTXeseu6XAZfkpCOgVXEF7Zi5lojYtxvuLEcF2sqYj/AM0W2xCTl/RWgj8NVzODOZBudRSKF3AzTHGgkAf/zUU/XAOI2c37bb7zOwFBW/p8MAfzkMbaP9YFVK5s9xVHuPmXEwM56AbqjOA6FJhhsXfyUmjy+8bRBczlrLM/qfLpd1e0jCm9cQtOnaTRdsCJqbeUVtamHe4OO69fbnnd952jn1Tw3O3/CsIz2C5jVUDfmcb5K0izm60xdhAZ6UFZYFWZ6QW/4ZejauAdbhT9OkXeLcH2yIZZoE4U3jWn4TJqoKzjtX4DBVgu4f0007O9vnpg/vDDEm6TBbE18z86qfcRlkPobX8hxJibeCIRny3Usd/6UsbAby9ebUe0fzy9OrLWoQAFXwVf18+B/yrfB/BaleD9dTZ86WIM+6M3txJIF0s9eM7Qz0iQ5VIgp6i3jIWtuC7oRj+M4zhW0HK9lLJ3xDcZamFofqcKIk1u0e8rfIv5NMjzcPLb6p4zkUJ8fxT9MEz6JRhlE9GPRH39DmsoYFEJM8cszSdy3hQRfvd9+ZfcOkv94kbxaE7s9B1iFQVBlgCLoIOWMY4ta/ZbfzSuNJ9YIE+sujUV/XCOmf3bf37fdcgJdSYP0fGDNfstHlGJZj/M+AVJAq9jf7zkTqE/nNo578Oj0PEWv5oBgu7EdVpemgfyhmNG9CSgPXuzlb/D6AX2+2S7PwCzNPxa/8OynU7oegSu2wocu/OpOmhSY/5nHNhWQBvwIi9rW1+L519rBlTw593FZDT+wPgaj2bDrIOmbMxri9lo/BU3MFl0f6Er1NDQ0NDQ0NDQ0NDQ0NDQ0NDQ+O2oJ0etvv+r84uPm2t699IwTgb4Q90wrnLqHe0c75zHn47W6Qc3n+Cpdw3IxgWn9PONYewnH/dweQ8+f2yckb8nhoj90o+xF7f0cO1fGcYgp+IurtWIPlwbxjok1OHATxusfAf/W+dVHpJi3ItxDh6/NYwbVh/ido2xSDiA7e3lVGQcNPigV0FdHPop7QtTb1zHH8+jL454MRgO/vc0Vp4NcHATaeLglDR3lleRcRDRdrN6R2SS9w8Pjy+TwSfCXrN24/lIdPEQ1+YrZpcTFXFwyHGct36Xg3/5EEnu350YD43cmpyD0oVhHKzcU53P2e4hIcFn5fusXVYHm4Zj/vADX/cRByt3/o8AOIg+7q76PJA10fqExwtqFGPTdMpqc7VsgIWxw9hLQ1muKlzTAQIOsI02Lld9XuAgJiEWa58KhcsOL5NSoPx4xHDZZ3HgX0Ue4+GAPlU/6B2cl46wLTWeoK3fu9qJ9O3mjFmbAa7p18+wrp0eCBbx6ACXXeyzcQgcyEZ7GYgcEMnjpXxFtQqbg8FtYhDuoOG9g3qXwcE1M5KX8ciIc20kZSfsiUNuTakliczQOS0EdDF3sUOfhhxE+nvyMw6i5k7YJ9Iz1oGjq6TSAVz1J/AfNQd70FWkS7gRfwKF0BQz7CpqXtQVHPSMlYMEiYMSG2w9MQ3RoKNeLqJCbBIP1U+CeAIgGtDl4Pr87IZqaMLB7V2DTP3fpOIR7uzu8fqOhFo+4GC/cXcA2SL/PPXOiC++VHDwaOQHlUtwELUdrz487J0SMQfHZOkfxQyx9s9hz+S5CwIDRM8nTKLHxJ0QDi5JDwMuLw+5o8V4zqU9Twiic3vECiPBjbs0B5FATz/jIOr5mo3GJ5HgFRFmEI+AmaIz/A8XF8RIgAO8ji7EFRJx8ORzeeXtRtTFGRtJYnKvmJC3XNxrph0CB9F0XfyMgx4TsxGTH6/FMzKec6jwh8LCAxwAs0wiJ4GEPbAAorELm48SX4JwNggxMR1QwGM6AIGDiPcVA+ZsDmKjuBfP5DWJEA6g8z0xYNhMpN2PcAxiFKLuxhlwbXsGjzB8oLb+9dnt/v7B3a7AwR4f5CElg8WBA7oYRA52VjaKMge3zAb7ZLSD2CrEBmEH1r1McaDwjcexahyzFQQ5iExOsjm9u+B6BDig6YPTJDx9ZDagFBPS2wQHD7znm8hN3ibNE4NwCvtK64EqRuolct3sKjjYoZrdM4ylOBjApbZHq6Y5yNtlfstBNN/U6ZNg4DJRCzzK/boBg/FD4b/MWJmEhAYbpcwB6YxEUjdnjauDm59z8GN70ODGOI4DKSVYC093BTl7gvnL2S/4jXhPupvi4CTRg0ODRYK7uRxcQ2l3aVMpv8CyP8tB5MC/4MY4Hg7dJ0a2UYgSFfFB9paHTPRh0g7nwEhsrMF3o/VcDo7AFJH5GtCBCvEB2NouA5GDJwNY/jrU4RLRUpgaETvL56BUv0hyUdA3MqMGeMnngISxtBtmlAUOzqHZXA6Qg6MTprIEcY4wsbFx6ApbfzK+3S+UmHE6Bhw81HmTj4lk1Efe5XNwYLCQosHmS+AAuNRlQWbzCOO6EYv8l39HxE5yZfG2WshPDMC6IRzsHgH4cZVenQ3zknKQPDZgK5fZA7+XbxPjx8/8hKzEHgkcrL4U5HyikLgjEc6xUBFOtQ+XkZxPJOpDvMxOr3F1y9hN9kwnvR55IraEj6Te38ZBHCXkcEDCZuN0/5YszZ1SioNHODFrcfAghO9HgvY/GPJm5I6vFDUH57AgVqiIg1NWRs3LPh/BRT4HpVveIk0/QA5OGDPrcfA0kFY0lYV1LmWLQXYRJgAYB6U9PuKnWB6SQ7lLyvhmgdbb59HwLeDAAJJdyQRCDs6NNY4Y/EaMu/PdtEm7azT4VnwX15LSldGAkxBh0JBAhz+4Pbm53OnRJ+NDmr2zk5unHjRdR72nm5ODXTKeWJcfced0SHggPBSpXx1f3uyATcjeFR1ZRNbPM9qrQcitLYXUQdU/xeHqBvHnOFg1KNsoB2fC6UdhuAWx4jLYKAdHD6dbeSd4xRONza6F+orR0XawWQ7+N8A2vP/H8P9e/d3gtQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NjU3gv575ZOsHRTLLAAAAAElFTkSuQmCC",
+        "chanel": "DW ESP",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "MUNDO Y CULTURA",
+        "coverImg": "http://images.mi.tv/channels/mx_history-hd_m.png",
+        "chanel": "HISTORY HD",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://177.93.45.155:6143/play/a034/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "MUNDO Y CULTURA",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1024px-NASA_TV.svg.png",
+        "chanel": "NASA TV",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NOTICIAS",
+        "coverImg": "",
+        "chanel": "Milenio Tv",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA Latinos",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png",
+        "chanel": "Estrella TV",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA Latinos",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png",
+        "chanel": "Estrella TV Plx",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://estrellatv-plex.amagi.tv/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA Latinos",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png",
+        "chanel": "Estrella TV Rk",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://estrellatv-roku.amagi.tv/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA Latinos",
+        "coverImg": "https://i.imgur.com/f4Bec0i.png",
+        "chanel": "Estrella TV NEWS",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Internacionales Latinos",
+        "coverImg": "http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png",
+        "chanel": "OromarTv",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://177.234.230.226:8010/play/a02e/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Internacionales Latinos",
+        "coverImg": "",
+        "chanel": "Ecuavisa",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://177.234.230.226:8010/play/a02b/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "ESPAÑA",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TvG2.jpg/225px-TvG2.jpg",
+        "chanel": "TvG 2 HD",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://amodino-crtvg.flumotion.com/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "ESPAÑA",
+        "coverImg": "https://images11.eitb.eus/multimedia/recursos/generales/tira_zuzenean_zuria/etb1_zuzenean.png",
+        "chanel": "EITB 1 HD Web",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "ESPAÑA",
+        "coverImg": "https://images11.eitb.eus/multimedia/images/2018/07/19/2315585/20180719091634_logostreamingetb2970_foto960.jpg",
+        "chanel": "EITB 2 HD Web",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "ESPAÑA",
+        "coverImg": "https://images14.eitb.eus/multimedia/recursos/generales/img_facebook_eitbcom.jpg",
+        "chanel": "EITB BASQUE Web",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "ESPAÑA",
+        "coverImg": "https://www.coolstreaming.us/img/ch/image41615263838.jpg",
+        "chanel": "La1 tve",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": "TV Mexiquense Web",
+        "country": "MX",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",
+        "chanel": "HBO HD",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://181.78.105.146:6060/play/a00h",
+            "http://167.250.222.35:16000/play/a040/index.m3u8",
+            "http://45.179.140.242:8000/play/a0kt"
+        ]
+    },
+    {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",
+        "chanel": "HBO 2 HD",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://45.179.140.242:8000/play/a0l9"
+        ]
+    },
+    {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
+        "chanel": "HBO Plus",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://45.179.140.242:8000/play/a0la"
+        ]
+    },
+    {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png",
+        "chanel": "Paramount Channel",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://181.78.105.146:2000/play/a01s/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://mbanetworks.tv/wp-content/uploads/2022/08/multipremier.png",
+        "chanel": "MULTIPREMIER HD",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://177.234.230.226:8010/play/a00h/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png",
+        "chanel": "WARNER CHANNEL HD",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://45.166.92.22:58001/play/a049/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",
+        "chanel": "A&E",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://45.166.92.22:58001/play/a00p/index.m3u8",
+            "http://181.78.105.146:2000/play/a03f/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png",
+        "chanel": "AXN",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://181.78.105.146:2000/play/a05y/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",
+        "chanel": "UNIVERSAL HD",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://177.93.45.155:6143/play/a00d/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",
+        "chanel": "UNIVERSAL",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://45.179.140.242:8000/play/a0jw"
+        ]
+    },
+    {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",
+        "chanel": "TNT HD",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://177.93.45.155:6143/play/a00l/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png",
+        "chanel": "STAR Channel",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://177.93.45.155:6143/play/a00i/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "",
+        "chanel": "SONY",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://177.93.45.155:6143/play/a01r/index.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "",
+        "chanel": "Fox Deportes XumoTv",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://live-content.xumo.com/189/content/XM0K6VHYA4V46G/23906297/master.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "",
+        "chanel": "TNT Sports",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "http://www.latinspots.com/files/notas/Gnota_56697.jpg",
+        "chanel": "EVENTOS TNT Sports  Brasil",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "http://www.latinspots.com/files/notas/Gnota_56697.jpg",
+        "chanel": "EVENTOS TNT Sports 2 Brasil",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "http://www.latinspots.com/files/notas/Gnota_56697.jpg",
+        "chanel": "EVENTOS TNT Sports 3 Brasil",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "http://www.latinspots.com/files/notas/Gnota_56697.jpg",
+        "chanel": "EVENTOS TNT Sports 4 Brasil",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "http://www.latinspots.com/files/notas/Gnota_56697.jpg",
+        "chanel": "EVENTOS TNT Sports 5 Brasil",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://files.elfsightcdn.com/90539f53-3c3e-4026-b9dc-19775f1b6f8f/bf47b616-3a0b-436d-9736-e1827736fb33/snhtv.png",
+        "chanel": "SportsNews Highlights",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-sportsnewshigh-ono/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "",
+        "chanel": "SportsGrid",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "",
+        "chanel": "NESN HD",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/817.ts"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://dupvhm5r1oaxt.cloudfront.net/uploads/2020/01/CUBS_MSN_Logo_RGB_Red.png",
+        "chanel": "Marquee Sports Network",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/2463.ts"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1280px-SNY_logo.svg.png",
+        "chanel": "Sportsnet New York",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/866.ts"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "",
+        "chanel": "NBCSPORTS BAY AREA",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/805.ts"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png",
+        "chanel": "NBCSPORTS BOSTON",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/807.ts"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "",
+        "chanel": "NBCSPORTS PHILADELPHIA",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/812.ts"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png",
+        "chanel": "NBCSPORTS WASHINGTON",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/814.ts"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png",
+        "chanel": "AT&T SportsNet Pittsburgh HD",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://ufospeeds.com:2095/live/Blockchain/Blockchain6969/10812.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png",
+        "chanel": "AT&T SportsNet Pittsburgh",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://cord-cutter.net:8080/jesus1/jesus1/108178"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png",
+        "chanel": "AT&T SportsNet Pittsburgh",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://cord-cutter.net:8080/live/jesus1/jesus1/108178.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "",
+        "chanel": "ADSPORTS 1",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://pbs.twimg.com/media/DFbiT91XoAArm0_.png",
+        "chanel": "ADSPORTS 2",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg",
+        "chanel": "STADIUM SPORTS",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://cdn.newswire.com/files/x/0a/7a/5f59b76a6c811cf30d585c5d2ac6.png",
+        "chanel": "Sportsgrid Network",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://spng.pinpng.com/pngs/s/446-4461393_1519835956947-lsn-logo-red-16x9images-lax-sports-network.png",
+        "chanel": "LSN SPORTS NETWORK",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://i.imgur.com/WEM9B83.png",
+        "chanel": "Tennis Channel",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://i.imgur.com/wcmQ30R.png",
+        "chanel": "Tennis Channel HD",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA Latinos",
+        "coverImg": "https://static.wikia.nocookie.net/tvstations/images/a/a7/Telemundo_52_2018.png",
+        "chanel": "Telemundo 52 LA",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/2560px-ION_Plus_logo.svg.png",
+        "chanel": "ION Plus",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-433.frequency.stream/433/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "https://imgx.fubo.tv/station_logos/kfmb_c.png",
+        "chanel": "CBS 8 San Diego",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/3882.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/12/USBB3200018Q6_20210824T091344.png",
+        "chanel": "Unsolved Mysteries",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_unsolvedmysteries_001.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "",
+        "chanel": "AXS TV NOW",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8",
+            "https://d6ywct4o2ksou.cloudfront.net/hls/720phi/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wmur/logo.png",
+        "chanel": "WMUR 9",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://linear-33.frequency.stream/33/hls/master/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/USBA43000017Q_20210126T072616.png",
+        "chanel": "Movie Sphere",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/78/USAJ40000072X20200730102745.png",
+        "chanel": "FilmRise Free Movies",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmrisefreemovies_001.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/84/USBB3200020ID_20210824T091339.png",
+        "chanel": "FilmRise Action",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmriseaction_001.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/USAJ3000007MT20200730102745.png",
+        "chanel": "Maverick Black Cinema",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://995059ba59a44c949b7b00ce255a4861.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MaverickBlackCinema/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png",
+        "chanel": "CINEVAULT 80's",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8",
+            "https://fb9770c9cf584d64b3c5e3a26637d5ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cinevault80s/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png",
+        "chanel": "CINEVAULT: Westerns",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CinevaultWesterns/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/USBB32000196O_20210824T091341.png",
+        "chanel": "FilmRise Western",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmrisewestern_001.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png",
+        "chanel": "USA Network",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/898.ts",
+            "https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/898.m3u8",
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/847.ts",
+            "https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/847.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png",
+        "chanel": "Showtime",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/180.ts",
+            "https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/180.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "USA",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png",
+        "chanel": "Showtime West",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/186.ts",
+            "https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/186.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "DEPORTES",
+        "coverImg": "",
+        "chanel": "SPECTRUM SPORTSNET LA DODGERS",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://cord-cutter.net:8080/jesus1/jesus1/31636"
+        ]
+    },
+    {
+        "groupTitle": "Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/6397e0a8c21ef6a4bac5a777a71e7f01.png",
+        "chanel": "COL Cablenoticias",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155805"
+        ]
+    },
+    {
+        "groupTitle": "Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/cd4425427821cc583cfb026e619fa062.png",
+        "chanel": "COL Canal Uno",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1066863"
+        ]
+    },
+    {
+        "groupTitle": "Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png",
+        "chanel": "CARACOL",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155787"
+        ]
+    },
+    {
+        "groupTitle": "Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png",
+        "chanel": "CARACOL opc2",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155783"
+        ]
+    },
+    {
+        "groupTitle": "Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/3c9c23cf3b3110edd5de217492ba23bf.png",
+        "chanel": "COL CITY TV",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1092275"
+        ]
+    },
+    {
+        "groupTitle": "Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/d94d3dedf5efcb70fd4c5ec164d62aaa.png",
+        "chanel": "COL NTN24",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/41815"
+        ]
+    },
+    {
+        "groupTitle": "Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",
+        "chanel": "COL RCN",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1087192"
+        ]
+    },
+    {
+        "groupTitle": "Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/30e73c310da7d353d9a9bf46213c1135.png",
+        "chanel": "COL Señal Colombia",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155811"
+        ]
+    },
+    {
+        "groupTitle": "Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/4e7ca7d40c3fcf1b23f76af0d9f7235a.png",
+        "chanel": "COL TeleAntioquia",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155801"
+        ]
+    },
+    {
+        "groupTitle": "Colombia",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLenEpqBsZoYkOFBD-XdENBTsz9CEwWrjqA&usqp=CAU",
+        "chanel": "COL cali tv",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5ab772334c39c.streamlock.net:443/live-calitv/_definst_/calitv1/chunklist_w44416927_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPVM1S1BjVzM5WF9raWFzNllvanhGZERVX25RbG5kU0lSRGROUldvMk1MUlk9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?190.60.36.91"
+        ]
+    },
+    {
+        "groupTitle": "Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/f661ac88786c79fb80ecb9bde42fa929.png",
+        "chanel": "COL Tele pacifico",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47693"
+        ]
+    },
+    {
+        "groupTitle": "Colombia",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_966xABJ3qeFrVWPMkt9qDvNF1DC8O5wdA&usqp=CAU",
+        "chanel": "COL telecafe",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155810"
+        ]
+    },
+    {
+        "groupTitle": "Colombia",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjX-rL_ABmrFD6AVNf7IsSHbsa2dhJJ-NWg&usqp=CAU",
+        "chanel": "COL Eureka",
+        "country": "CO",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-HBO-family.png",
+        "chanel": "CINE HBO Family",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4017"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-HBO-pop.png",
+        "chanel": "CINE HBO POP",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47445"
+        ]
+    },
+    {
+        "groupTitle": "",
+        "coverImg": "http://descargas.podzone.net/logos/-HBO-signature.png",
+        "chanel": "CINE HBO signature",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155796"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-cine-latino.png",
+        "chanel": "CINE Cine Latino",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4136"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-DHE.png",
+        "chanel": "CINE DHE",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/24180"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-universal-premier.png",
+        "chanel": "CINE universal premier",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHI1phC-Npv73caM2Q53jCkc"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-SYFY.png",
+        "chanel": "CINE SYFY",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/3958"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-cinema-dinamita.png",
+        "chanel": "CINE CINEMA DINAMITA",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4142"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-I-SAT.png",
+        "chanel": "CINE I SAT",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155798"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-europa-europa.png",
+        "chanel": "CINE EUROPA EUROPA",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33359"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "https://dl.dropboxusercontent.com/scl/fi/lrj2k8548eh7ug0ojf9b2/tucine.png?rlkey=e4o80v5ja2b8b6bq5d8u8e69c&dl=0",
+        "chanel": "CINE tu cine",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/7981"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "https://dl.dropboxusercontent.com/scl/fi/2uos7rleuxwdig6i5z23k/fmtv.png?rlkey=fyoa2s4fxlp4rmvd0zlcagokq&dl=0",
+        "chanel": "CINE fmtv fusion",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://s2.tvdatta.com:3307/hybrid/play.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-lifetime.png",
+        "chanel": "CINE lifetime",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155873"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-sundance.png",
+        "chanel": "CINE SUNDANCE TV",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4101"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-morbid-tv.png",
+        "chanel": "CINE MORBID TV",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33364"
+        ]
+    },
+    {
+        "groupTitle": "Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-cine-estelar.png",
+        "chanel": "CINE CINE ESTELAR",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1156007"
+        ]
+    },
+    {
+        "groupTitle": "Cultura",
+        "coverImg": "http://descargas.podzone.net/logos/-discovery-channel.png",
+        "chanel": "CUL Discovery Channel",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155807"
+        ]
+    },
+    {
+        "groupTitle": "Cultura",
+        "coverImg": "https://dl.dropboxusercontent.com/scl/fi/m1xje3v01pn55zyn25lfe/Discoveryfami.png?rlkey=mwtraqj9ymtbflwsql7inctxc&dl=0",
+        "chanel": "CUL Discovery Familia",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M"
+        ]
+    },
+    {
+        "groupTitle": "Cultura",
+        "coverImg": "http://descargas.podzone.net/logos/-discovery-ID.png",
+        "chanel": "CUL Discovery Investigation",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4123"
+        ]
+    },
+    {
+        "groupTitle": "Cultura",
+        "coverImg": "http://descargas.podzone.net/logos/-discovery-science.png",
+        "chanel": "CUL Discovery SCI",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155818"
+        ]
+    },
+    {
+        "groupTitle": "Cultura",
+        "coverImg": "http://descargas.podzone.net/logos/-history.png",
+        "chanel": "CUL History Channel",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155804"
+        ]
+    },
+    {
+        "groupTitle": "Cultura",
+        "coverImg": "http://descargas.podzone.net/logos/-HGTV.png",
+        "chanel": "CUL HGTV",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155823"
+        ]
+    },
+    {
+        "groupTitle": "Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-TS7q6ii5E570ki-MXurqbh9AKonahFQ5g&usqp=CAU",
+        "chanel": "INF latino kids",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://6362ca6f1fc28.streamlock.net:443/8062/8062/chunklist_w112073847.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Musica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQlnF3qpdXR3X5v4ms3zeKR8TxSSxM05BxA&usqp=CAU",
+        "chanel": "MUS hits 360",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://cdn.essastream.com:3023/live/hits360tvlive.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Musica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotv_igzlWi45ybDzX_1GalB_wH7PtKayicA&usqp=CAU",
+        "chanel": "MUS tocahits",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://panel.miplay.cl:8081/mix247tv/tracks-v1a1/mono.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Musica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrXQrXpP0FluOiLFtZMlvlnPMu-pYiMatkQ&usqp=CAU",
+        "chanel": "MUS top latino",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Musica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJAjqTdOWjFMG9CPs7w_HKkmhB2vx2_5rTg&usqp=CAU",
+        "chanel": "MUS tele musica",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://canal.mediaserver.com.co/live/telemusica.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&usqp=CAU",
+        "chanel": "CR TELESISTEMA",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://video20.klm99.com:3621/hybrid/play.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScU0IdCCCR2mtKHb7D9_A9ybiCC2cm1-EKgQ&usqp=CAU",
+        "chanel": "CR Tele red",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://video20.klm99.com:3558/hybrid/play.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUmg188E2X2bAX9Vj2B542ISVrz5D3LkgTg&usqp=CAU",
+        "chanel": "CR coto brus tv",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuH2pNcjfEx1y0_sfIIg287VbEw-yJ5L6ig&usqp=CAU",
+        "chanel": "CR teve norte",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5fd8fec96951d.streamlock.net:443/TVN/CH14.stream_720p/chunklist_w425777611.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfLRTXz2TSfm1mnaockF7rWtYShJTJ8wMzQ&usqp=CAU",
+        "chanel": "CR garabito tv",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://59ef525c24caa.streamlock.net:443/garabitoTV/garabitotv/chunklist_w1463613344.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkAHmCkkPzREUAjSuIcHtIxhLdD2QIFI9FQ&usqp=CAU",
+        "chanel": "CR los santos tv",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://lstv.duckdns.org:449/hls/lstv.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qp48vAYubW5h4Tupl_Pzwfb7U-YQx0DOyA&usqp=CAU",
+        "chanel": "CR zurqui tv",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4uLGOuQaNRSDK8lSiCjICHX0Ld_weJoskA&usqp=CAU",
+        "chanel": "CR telebrunca",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1244906677.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBfQDrgA2AgPmHZaHHwtiDxGn3Wp1XnoI6g&usqp=CAU",
+        "chanel": "CR guatuso tv",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://5cf4a2c2512a2.streamlock.net:443/8162/8162/chunklist_w1960322809.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmicNPv2oKTqz_SanYW6rhyFP-yNtbBMoJRw&usqp=CAU",
+        "chanel": "CR nosara tv",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "https://stmv.streamingvip.click:443/tvnosara2/tvnosara2/chunklist_w846594311.m3u8"
+        ]
+    },
+    {
+        "groupTitle": "Usa Latinos",
+        "coverImg": "http://descargas.podzone.net/logos/-telemundo.png",
+        "chanel": "TELEMUNDO",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHBaGok1oX_0n3gxWAHVpjUw"
+        ]
+    },
+    {
+        "groupTitle": "Deporte Colombia",
+        "coverImg": "http://descargas.podzone.net/logos/-win-sports.png",
+        "chanel": "COL WIN SPORTS",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155795"
+        ]
+    },
+    {
+        "groupTitle": "Deporte Colombia",
+        "coverImg": "https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",
+        "chanel": "COL WIN SPORT+",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16723"
+        ]
+    },
+    {
+        "groupTitle": "Deporte Colombia",
+        "coverImg": "https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",
+        "chanel": "COL WIN SPORTopc 2",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/54738"
+        ]
+    },
+    {
+        "groupTitle": "Deporte Colombia",
+        "coverImg": "https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",
+        "chanel": "COL WIN SPORTopc 3",
+        "country": "",
+        "status": true,
+        "views": 0,
+        "likes": 0,
+        "Dislikes": 0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16724"
+        ]
+    }
+]

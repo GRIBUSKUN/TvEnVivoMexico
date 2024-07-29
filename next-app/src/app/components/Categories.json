@@ -1,0 +1,104 @@
+{
+    "EN": {
+        "categories": [
+            {
+                "name": "Children",
+                "value": "INF"
+            },
+            {
+                "name": "Cinema",
+                "value": "CIN"
+            },
+            {
+                "name": "News",
+                "value": "NW"
+            },
+            {
+                "name": "Sports",
+                "value": "SP"
+            }
+        ],
+        "contries": [
+            {
+                "name": "USA",
+                "value": "US"
+            },
+            {
+                "name": "Mexico",
+                "value": "MX"
+            },
+            {
+                "name": "Colombia",
+                "value": "COL"
+            },
+            {
+                "name": "Spain",
+                "value":"ES"
+            },
+            {
+                "name": "Latam",
+                "value": "LA"
+            },
+            {
+                "name": "Argentina",
+                "value": "AR"
+            },
+            {
+                "name": "Peru",
+                "value": "PR"
+            }
+
+        ]
+    },
+    "ES": {
+        "categories": [
+            {
+                "name": "Infantil",
+                "value": "INF"
+            },
+            {
+                "name": "Cine",
+                "value": "CIN"
+            },
+            {
+                "name": "Noticias",
+                "value": "NW"
+            },
+            {
+                "name": "Deportes",
+                "value": "SP"
+            }
+        ],
+        "contries": [
+            {
+                "name": "USA",
+                "value": "US"
+            },
+            {
+                "name": "Mexico",
+                "value": "MX"
+            },
+            {
+                "name": "Colombia",
+                "value": "COL"
+            },
+            {
+                "name": "España",
+                "value":"ES"
+            },
+            {
+                "name": "Latam",
+                "value":"LA"
+            },
+            {
+                "name": "Argentina",
+                "value": "AR"
+            },
+            {
+                "name": "Peru",
+                "value": "PR"
+            }
+
+        ]
+    }
+}

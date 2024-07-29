@@ -1,0 +1,62 @@
+{
+    "ES": {
+        "menu": {
+            "title": "TV En Vivo",
+            "home": "Inicio",
+            "tvChanels": "Canales",
+            "about": "Acerca de nosotros",
+            "searchLabel": "Buscar...",
+            "PrivacyPolicy": "Politica de Privacidad",
+            "Lisensing": "Licencia",
+            "contact": "Contacto",
+            "LanguageDropDown": "Español"
+        },
+        "player": {
+            "caption": "En Vivo",
+            "share": "Compartir",
+            "Options": "Opcion"
+        },
+        "tvList": {
+            "categories": "Categorias",
+            "country": "Paises",
+            "searchLabel": "Buscar: Canales, Pais, Categoria"
+        },
+        "about": {
+            "contactUS": "Contactanos",
+            "yourEmail": "Tu correo",
+            "yourMessage": "Tu mensaje",
+            "leaveAComent": "Deja tu comentario",
+            "send": "Enviar"
+        }
+    },
+    "EN": {
+        "menu": {
+            "title": "Live TV",
+            "home": "Home",
+            "tvChanels": "Chanels",
+            "about": "About",
+            "searchLabel": "Search...",
+            "PrivacyPolicy": " Privacy Policy",
+            "Lisensing": "Licensing",
+            "contact": "Contact",
+            "LanguageDropDown": "English"
+        },
+        "player": {
+            "caption": "Live IPTV Online",
+            "share": "Share",
+            "Options": "Option"
+        },
+        "tvList": {
+            "categories": "Categories",
+            "country": "Countries",
+            "searchLabel": "Search: Chanels, Countries, Category"
+        },
+        "about": {
+            "contactUS": "Contactanos",
+            "yourEmail": "Tu correo",
+            "yourMessage": "Tu mensaje",
+            "leaveAComent": "Deja tu comentario",
+            "send": "Enviar"
+        }
+    }
+}

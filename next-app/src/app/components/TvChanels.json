@@ -1,0 +1,4100 @@
+{
+    "LAS ESTRELLAS LATAM": {
+        "groupTitle": "Bics",
+        "coverImg": "https://scontent.fmnl30-1.fna.fbcdn.net/v/t39.30808-6/348907452_767366318386400_1978887425954391801_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=bxjRjwzvoEcAX8CpZ8w&_nc_ht=scontent.fmnl30-1.fna&oh=00_AfDTMiVeBBNlgd2G_IA5QpkoafHWsiiqAeGIIbQq5S7yhQ&oe=654E128D",
+        "chanel": " LAS ESTRELLAS LATAM",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8",
+            "https://linear-416.frequency.stream/416/hls/master/playlist.m3u8"
+        ]
+    },
+    "LAS ESTRELLAS MX": {
+        "groupTitle": "Bics",
+        "coverImg": "",
+        "chanel": " LAS ESTRELLAS MX",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8",
+            "https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8"
+        ]
+    },
+    "4 GDL": {
+        "groupTitle": "Bics",
+        "coverImg": "",
+        "chanel": " 4 GDL",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8"
+        ]
+    },
+    "8 MTY": {
+        "groupTitle": "Bics",
+        "coverImg": "",
+        "chanel": " 8 MTY",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8"
+        ]
+    },
+    "GOLDEN PLUS": {
+        "groupTitle": "Bics",
+        "coverImg": "",
+        "chanel": " GOLDEN PLUS",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8"
+        ]
+    },
+    "EURO NEWS": {
+        "groupTitle": "Bics",
+        "coverImg": "",
+        "chanel": " EURO NEWS",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8"
+        ]
+    },
+    "ATV+ PE": {
+        "groupTitle": "Bics",
+        "coverImg": "",
+        "chanel": " ATV+ PE",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8"
+        ]
+    },
+    "TN23": {
+        "groupTitle": "Bics",
+        "coverImg": "",
+        "chanel": " TN23",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8"
+        ]
+    },
+    "VIVO PLAY": {
+        "groupTitle": "Bics",
+        "coverImg": "",
+        "chanel": " VIVO PLAY",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8"
+        ]
+    },
+    "NUESTRA VISION": {
+        "groupTitle": "Bics",
+        "coverImg": "",
+        "chanel": " NUESTRA VISION",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8"
+        ]
+    },
+    "TIGO SPORTS": {
+        "groupTitle": "Bics",
+        "coverImg": "",
+        "chanel": " TIGO SPORTS",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
+        ]
+    },
+    "REAL MADRID TV": {
+        "groupTitle": "Bics",
+        "coverImg": "",
+        "chanel": " REAL MADRID TV",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8"
+        ]
+    },
+    "ADN 40": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " ADN 40",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
+        ]
+    },
+    "MILENIO": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " MILENIO",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
+        ]
+    },
+    "ONCE": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " ONCE",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8"
+        ]
+    },
+    "TELEMAX": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " TELEMAX",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8"
+        ]
+    },
+    "MULTIMEDIOS MTY": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " MULTIMEDIOS MTY",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8"
+        ]
+    },
+    "MULTIMEDIOS LAGUNA": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " MULTIMEDIOS LAGUNA",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
+        ]
+    },
+    "MULTIMEDIOS GDL": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " MULTIMEDIOS GDL",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8"
+        ]
+    },
+    "MARIA VISION": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " MARIA VISION",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8"
+        ]
+    },
+    "MARIA VISION CAPILLA": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " MARIA VISION CAPILLA",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8"
+        ]
+    },
+    "CANAL 57 USA": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " CANAL 57 USA",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8"
+        ]
+    },
+    "ESTRELLA TV USA": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " ESTRELLA TV USA",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://estrellatv-plex.amagi.tv/playlist.m3u8"
+        ]
+    },
+    "UNIVISION LATAM": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " UNIVISION LATAM",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8"
+        ]
+    },
+    "RCN EXTRA CO": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " RCN EXTRA CO",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8"
+        ]
+    },
+    "RCN Mas+ CO": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " RCN Mas+ CO",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8"
+        ]
+    },
+    "CINCO TV AR": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " CINCO TV AR",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL"
+        ]
+    },
+    "Todo Noticias AR": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " Todo Noticias AR",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://live-01-01-tn.vodgc.net/TN24/index.m3u8"
+        ]
+    },
+    "Canal 26 Noticias AR": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " Canal 26 Noticias AR",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8"
+        ]
+    },
+    "TELEMUNDO CA": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " TELEMUNDO CA",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE"
+        ]
+    },
+    "TELEMUNDO PR": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " TELEMUNDO PR",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+        ]
+    },
+    "TELE ONCE PR": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " TELE ONCE PR",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8"
+        ]
+    },
+    "CANAL 34 PR": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " CANAL 34 PR",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8"
+        ]
+    },
+    "TVMAX PA": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " TVMAX PA",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://45.5.117.182:8000/play/a0ip/index.m3u8"
+        ]
+    },
+    "TVN PA": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " TVN PA",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8"
+        ]
+    },
+    "CANAL 12 SV": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " CANAL 12 SV",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8"
+        ]
+    },
+    "CANAL 2 CR": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " CANAL 2 CR",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8"
+        ]
+    },
+    "CANAL 4 CR": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " CANAL 4 CR",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://d25v5vivhcrrh5.cloudfront.net/hls/canal4.m3u8"
+        ]
+    },
+    "CANAL 6 CR": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " CANAL 6 CR",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://d25v5vivhcrrh5.cloudfront.net/hls/canal6.m3u8"
+        ]
+    },
+    "CANAL 8 CR": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " CANAL 8 CR",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true"
+        ]
+    },
+    "CANAL 11 CR": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " CANAL 11 CR",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8"
+        ]
+    },
+    "TICAVISION CR": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " TICAVISION CR",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8"
+        ]
+    },
+    "TVC EC ": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " TVC EC ",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8"
+        ]
+    },
+    "RTU EC": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " RTU EC",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.234.230.226:8010/play/a029/index.m3u8",
+            "https://video1.makrodigital.com/rtu/rtu/playlist.m3u8"
+        ]
+    },
+    "24 HORAS CL": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "24 HORAS CL",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://marine2.miplay.cl/24horas/playlist.m3u8"
+        ]
+    },
+    "CANAL CAPITAL CO": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " CANAL CAPITAL CO",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8"
+        ]
+    },
+    "CANAL 2 CALI CO": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " CANAL 2 CALI CO",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://video13.virtualtronics.com/streamer/canal2.m3u8"
+        ]
+    },
+    "SEÑAL COLOMBIA CO": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " SEÑAL COLOMBIA CO",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"
+        ]
+    },
+    "CCTV-13 CH": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " CCTV-13 CH",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8"
+        ]
+    },
+    "NHK WORLD JP": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " NHK WORLD JP",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8"
+        ]
+    },
+    "NIPPON NEWS JP": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " NIPPON NEWS JP",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"
+        ]
+    },
+    "24 HORAS ES": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": "24 HORAS ES",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://ztnr.rtve.es/ztnr/1694255.m3u8"
+        ]
+    },
+    "ABC PY": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " ABC PY",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8"
+        ]
+    },
+    "CNN": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " CNN",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
+        ]
+    },
+    "RETRO CARTOON": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " RETRO CARTOON",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL"
+        ]
+    },
+    "USA | Warner Channel": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " USA | Warner Channel",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.53.153.21:8001/play/a08l/index.m3u8"
+        ]
+    },
+    "USA | Universal Cinema": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " USA | Universal Cinema",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.53.153.21:8001/play/a0aw/index.m3u8"
+        ]
+    },
+    "USA | HBO": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " USA | HBO",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.53.153.21:8001/play/a03b/index.m3u8"
+        ]
+    },
+    "USA | HBO 2": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " USA | HBO 2",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.53.153.21:8001/play/a03i/index.m3u8"
+        ]
+    },
+    "USA | HBO Family": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " USA | HBO Family",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.53.153.21:8001/play/a04g/index.m3u8"
+        ]
+    },
+    "USA | HBO Xtreme": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " USA | HBO Xtreme",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.53.153.21:8001/play/a04h/index.m3u8"
+        ]
+    },
+    "USA | HBO Pop": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " USA | HBO Pop",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.53.153.21:8001/play/a01y/index.m3u8"
+        ]
+    },
+    "USA | Cartoon Network": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " USA | Cartoon Network",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.53.153.21:8001/play/a03d/index.m3u8"
+        ]
+    },
+    "USA | Cartoonito": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " USA | Cartoonito",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.53.153.21:8001/play/a05h/index.m3u8"
+        ]
+    },
+    "USA | Tooncast": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " USA | Tooncast",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.53.153.21:8001/play/a085/index.m3u8"
+        ]
+    },
+    "USA | Retro Cartoon": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " USA | Retro Cartoon",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL"
+        ]
+    },
+    "ESPN EXTRA USA": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " ESPN EXTRA USA",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.53.153.21:8001/play/a03a/index.m3u8"
+        ]
+    },
+    "Claro Sports": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " Claro Sports",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://190.6.202.162:8000/play/a014/index.m3u8"
+        ]
+    },
+    "Claro Sports 2": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " Claro Sports 2",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://45.5.117.182:8000/play/a0e5/index.m3u8"
+        ]
+    },
+    "Tigo Sports Guatemala": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " Tigo Sports Guatemala",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
+        ]
+    },
+    "ESPN Deportes": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " ESPN Deportes",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12280"
+        ]
+    },
+    "FOX Sports ": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " FOX Sports ",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12257"
+        ]
+    },
+    "FOX Sports 2": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " FOX Sports 2",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12259"
+        ]
+    },
+    "FOX Sports 3": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " FOX Sports 3",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12258"
+        ]
+    },
+    "ESPN ": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " ESPN ",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12278"
+        ]
+    },
+    "ESPN 2": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " ESPN 2",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12283"
+        ]
+    },
+    "ESPN 3": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " ESPN 3",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12281"
+        ]
+    },
+    "ITV Deportes ": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " ITV Deportes ",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8"
+        ]
+    },
+    "Tigo Sports": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " Tigo Sports",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
+        ]
+    },
+    "Golazo Network ": {
+        "groupTitle": "Bics Extra",
+        "coverImg": "",
+        "chanel": " Golazo Network ",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8"
+        ]
+    },
+    "AGU: Canal 26": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " AGU: Canal 26",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8",
+            "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
+        ]
+    },
+    "GDL: Canal 4": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " GDL: Canal 4",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8"
+        ]
+    },
+    "CAM: TRC Television": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " CAM: TRC Television",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8"
+        ]
+    },
+    "CHH: Canal 28 Chihuahua": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " CHH: Canal 28 Chihuahua",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8"
+        ]
+    },
+    "CHH: CANAL 44": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " CHH: CANAL 44",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8"
+        ]
+    },
+    "CMX: Efekto TV": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " CMX: Efekto TV",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://cdn.jwplayer.com/manifests/bez1terN.m3u8"
+        ]
+    },
+    "COA: Canal 4 Saltillo": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " COA: Canal 4 Saltillo",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://162.241.190.126:1935/live/canal4/playlist.m3u8"
+        ]
+    },
+    "COA: 15TV Sabinas": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " COA: 15TV Sabinas",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8"
+        ]
+    },
+    "DUR: Canal 10 Durango": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " DUR: Canal 10 Durango",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8"
+        ]
+    },
+    "DUR: TV Lobo Durango": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " DUR: TV Lobo Durango",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8"
+        ]
+    },
+    "GUA: TV Cuatro 4.2 Cultura": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " GUA: TV Cuatro 4.2 Cultura",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8"
+        ]
+    },
+    "GUA: TV Cuatro 4.3 Deportes": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " GUA: TV Cuatro 4.3 Deportes",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8"
+        ]
+    },
+    "JAL: Jalisco TV": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " JAL: Jalisco TV",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8"
+        ]
+    },
+    "MIC: SMRTV Michoacan": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " MIC: SMRTV Michoacan",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8"
+        ]
+    },
+    "MIC: Canal 13 Michoacan": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " MIC: Canal 13 Michoacan",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8"
+        ]
+    },
+    "PUE: Canal 16.1": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " PUE: Canal 16.1",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8"
+        ]
+    },
+    "PUE: Canal 16.2": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " PUE: Canal 16.2",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8"
+        ]
+    },
+    "PUE: Canal 26.1": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " PUE: Canal 26.1",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8"
+        ]
+    },
+    "PUE: Canal 26.2": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " PUE: Canal 26.2",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8"
+        ]
+    },
+    "PUE: TV comunicaciones Puebla": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " PUE: TV comunicaciones Puebla",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8"
+        ]
+    },
+    "ROO: Canal 10 Cancun": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " ROO: Canal 10 Cancun",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8"
+        ]
+    },
+    "SLP: Nueve TV": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " SLP: Nueve TV",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8"
+        ]
+    },
+    "SON: Telemax Sonora": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " SON: Telemax Sonora",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8",
+            "https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8"
+        ]
+    },
+    "TLA: Tlaxcala Television": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " TLA: Tlaxcala Television",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8"
+        ]
+    },
+    "VER: TVMAS Veracruz": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " VER: TVMAS Veracruz",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8"
+        ]
+    },
+    "YUC: Teleplay Merida": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " YUC: Teleplay Merida",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8"
+        ]
+    },
+    "ZAC: Canal 24 Zacatecas": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "",
+        "chanel": " ZAC: Canal 24 Zacatecas",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8"
+        ]
+    },
+    "Las Estrellas♥": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png",
+        "chanel": " Las Estrellas♥",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8"
+        ]
+    },
+    "EL NU9VE": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://www.izzi.mx/bcanales/img/canal109.png",
+        "chanel": " EL NU9VE",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/26836.m3u8"
+        ]
+    },
+    "Azteca 7 Noroeste Info7 Web": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg",
+        "chanel": " Azteca 7 Noroeste Info7 Web",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://live.info7.mx/info7/stream.m3u8"
+        ]
+    },
+    "A+ Web": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png",
+        "chanel": " A+ Web",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8"
+        ]
+    },
+    "ADN 40 Web": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png",
+        "chanel": "ADN 40 Web",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+            "https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+        ]
+    },
+    "XHKG TV Nayarit": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://blogger.googleusercontent.com/img/a/AVvXsEgv2DM2g-3zp09DmLGWO5JWVKJofVJmJqBn2Sfplg_uBC1q-AW_OJ1mX5ShLRjM48fUxyS7YscoZPqpkWa1VaZICz8fjpg3AimUeaBCw4G-sNIog3h1ERxNL1wXK0T9t0c0qLqB8ohln0Sym87cWXytLAoAEdylguiBMweIoyDRCjJET_tGzO8uo0J7WQ=w700-h400-p-k-no-nu",
+        "chanel": "XHKG TV Nayarit",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://stream.oursnetworktv.com/latin/encoder73/chunklist_w509527976.m3u8"
+        ]
+    },
+    "Canal 26 Tv Aguascalientes": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png",
+        "chanel": "Canal 26 Tv Aguascalientes",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
+        ]
+    },
+    "Televisa Guadalajara Canal 4": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png",
+        "chanel": "Televisa Guadalajara Canal 4",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_6.m3u8"
+        ]
+    },
+    "Canal 44 Chihuahua": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://canal44.com/wp-content/uploads/2020/10/logocanal.png",
+        "chanel": "Canal 44 Chihuahua",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8"
+        ]
+    },
+    "TV Mar Vallarta": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://vallarta.tvmar.tv/lib/dist/img/logo-blanco.png",
+        "chanel": "TV Mar Vallarta",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8"
+        ]
+    },
+    "CANAL 28 NUEVO LEÓN": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://i.postimg.cc/gjvvsdtr/28NL.jpg",
+        "chanel": "CANAL 28 NUEVO LEÓN",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8"
+        ]
+    },
+    "Multimedios Laguna Web": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg",
+        "chanel": "Multimedios Laguna Web",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8",
+            "https://ythls.onrender.com/channel/UCR1aiCpU4PdNg-wCDiuDCcg.m3u8"
+        ]
+    },
+    "Multimedios GDL Web": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg",
+        "chanel": "Multimedios GDL Web",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8"
+        ]
+    },
+    "Multimedios CDMX Web": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg",
+        "chanel": "Multimedios CDMX Web",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8",
+            "https://ythls.onrender.com/channel/UCKuAmo9OGf8kw2jrPWCpHdA.m3u8"
+        ]
+    },
+    "Multimedios Cd. Juarez Web": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg",
+        "chanel": "Multimedios Cd. Juarez Web",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8"
+        ]
+    },
+    "Multimedios Saltillo Web": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg",
+        "chanel": "Multimedios Saltillo Web",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8"
+        ]
+    },
+    "TVCUATRO 4.1 Web": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://www.tvcuatro.com/images/noticias-01.png",
+        "chanel": "TVCUATRO 4.1 Web",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8"
+        ]
+    },
+    "TVCUATRO 4.2 Web": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://www.tvcuatro.com/images/cultura-01.png",
+        "chanel": "TVCUATRO 4.2 Web",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8"
+        ]
+    },
+    "TvMas": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png",
+        "chanel": "TvMas",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8"
+        ]
+    },
+    "NRT Canal 24 Eagle Pass-Tx.": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98xA3s0GIC-APNR2ph7oV_I3tN9ZUHbz1cA&usqp=CAU",
+        "chanel": "NRT Canal 24 Eagle Pass-Tx.",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8"
+        ]
+    },
+    "Telemax": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "http://www.cocolatv.com/stations_files/Telemax.png",
+        "chanel": "Telemax",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8"
+        ]
+    },
+    "XHCCU  Tv Cancun 8.1": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://1.bp.blogspot.com/-pWY_6BnngA4/YR97wzW2QYI/AAAAAAAAQJY/9hloXPmcdmMEW9Q5bU0Q-A7GR0qD2SCrgCLcBGAsYHQ/w320-h320/SIPSE%2BTV%2BCanc%25C3%25BAn%2Ben%2Bvivo.png",
+        "chanel": "XHCCU  Tv Cancun 8.1",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
+        ]
+    },
+    "MariaVision": {
+        "groupTitle": "RELIGION",
+        "coverImg": "https://static.epg.best/mx/Mariavision.mx.png",
+        "chanel": "MariaVision",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8"
+        ]
+    },
+    "La Voz de Maria": {
+        "groupTitle": "RELIGION",
+        "coverImg": "https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.pngg",
+        "chanel": "La Voz de Maria",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8"
+        ]
+    },
+    "CBN Tv Es": {
+        "groupTitle": "RELIGION",
+        "coverImg": "https://www1.cbn.com/sites/default/modules/custom/cbn_nav/images/int-bg-logoLink-CBNtv.jpg",
+        "chanel": "CBN Tv Es",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8"
+        ]
+    },
+    "DW ESP": {
+        "groupTitle": "MUNDO Y CULTURA",
+        "coverImg": "https://es.live-tv-channels.org/pt-data/uploads/logo/de-dw-espano.jpg",
+        "chanel": "DW ESP",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8"
+        ]
+    },
+    "HISTORY HD": {
+        "groupTitle": "MUNDO Y CULTURA",
+        "coverImg": "http://images.mi.tv/channels/mx_history-hd_m.png",
+        "chanel": "HISTORY HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.93.45.155:6143/play/a034/index.m3u8"
+        ]
+    },
+    "HISTORY+": {
+        "groupTitle": "MUNDO Y CULTURA",
+        "coverImg": "http://images.mi.tv/channels/mx_history-hd_m.png",
+        "chanel": "HISTORY+",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://190.92.7.19:8000/play/a020/index.m3u8"
+        ]
+    },
+    "HISTORY": {
+        "groupTitle": "MUNDO Y CULTURA",
+        "coverImg": "http://images.mi.tv/channels/mx_history-hd_m.png",
+        "chanel": "HISTORY",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30353.m3u8"
+        ]
+    },
+    "HISTORY HD*": {
+        "groupTitle": "MUNDO Y CULTURA",
+        "coverImg": "http://images.mi.tv/channels/mx_history-hd_m.png",
+        "chanel": "HISTORY HD*",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16565.m3u8"
+        ]
+    },
+    "NASA TV": {
+        "groupTitle": "MUNDO Y CULTURA",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1024px-NASA_TV.svg.png",
+        "chanel": "NASA TV",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8"
+        ]
+    },
+    "Universal Cinema East": {
+        "groupTitle": "UNIVERSAL",
+        "coverImg": "https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png",
+        "chanel": "Universal Cinema East",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://170.254.172.10:8000/play/a08b/index.m3u8"
+        ]
+    },
+    "Universal Comedy HD": {
+        "groupTitle": "UNIVERSAL",
+        "coverImg": "https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-comedy-dark-logo.png",
+        "chanel": "Universal Comedy HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://170.254.172.10:8000/play/a04w/index.m3u8"
+        ]
+    },
+    "Universal Crime HD": {
+        "groupTitle": "UNIVERSAL",
+        "coverImg": "https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-crime-dark-logo.png",
+        "chanel": "Universal Crime HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://170.254.172.10:8000/play/a04v/index.m3u8"
+        ]
+    },
+    "Universal Premiere HD": {
+        "groupTitle": "UNIVERSAL",
+        "coverImg": "https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png",
+        "chanel": "Universal Premiere HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://170.254.172.10:8000/play/a04s/index.m3u8"
+        ]
+    },
+    "Universal Premiere O": {
+        "groupTitle": "UNIVERSAL",
+        "coverImg": "https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png",
+        "chanel": "Universal Premiere O",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://170.254.172.10:8000/play/a04t/index.m3u8"
+        ]
+    },
+    "Universal Reality HD": {
+        "groupTitle": "UNIVERSAL",
+        "coverImg": "https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-reality-dark-logo.png",
+        "chanel": "Universal Reality HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://170.254.172.10:8000/play/a04u/index.m3u8"
+        ]
+    },
+    "Milenio Tv": {
+        "groupTitle": "NOTICIAS",
+        "coverImg": "http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg",
+        "chanel": "Milenio Tv",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8",
+            "http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30358.m3u8"
+        ]
+    },
+    "Canal Once Web": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg",
+        "chanel": "Canal Once Web",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8"
+        ]
+    },
+    "Estrella TV": {
+        "groupTitle": "USA Latinos",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png",
+        "chanel": "Estrella TV",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8"
+        ]
+    },
+    "Estrella TV Plx": {
+        "groupTitle": "USA Latinos",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png",
+        "chanel": "Estrella TV Plx",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://estrellatv-plex.amagi.tv/playlist.m3u8"
+        ]
+    },
+    "Estrella TV Rk": {
+        "groupTitle": "USA Latinos",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png",
+        "chanel": "Estrella TV Rk",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://estrellatv-roku.amagi.tv/playlist.m3u8"
+        ]
+    },
+    "Estrella TV NEWS": {
+        "groupTitle": "USA Latinos",
+        "coverImg": "https://i.imgur.com/f4Bec0i.png",
+        "chanel": "Estrella TV NEWS",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8"
+        ]
+    },
+    "OromarTv": {
+        "groupTitle": "Internacionales Latinos",
+        "coverImg": "http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png",
+        "chanel": "OromarTv",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.234.230.226:8010/play/a02e/index.m3u8",
+            "https://v3.playerlatino.live/stream/m3u8/4191|user-agent=Lavf/57.71.001"
+        ]
+    },
+    "Ecuavisa": {
+        "groupTitle": "Internacionales Latinos",
+        "coverImg": "",
+        "chanel": "Ecuavisa",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.234.230.226:8010/play/a02b/index.m3u8"
+        ]
+    },
+    "TvMax Panama": {
+        "groupTitle": "Internacionales Latinos",
+        "coverImg": "https://imagenes.gatotv.com/logos/canales/oscuros/9_de_panama-mediano.png",
+        "chanel": "TvMax Panama",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8"
+        ]
+    },
+    "TvG 2 HD": {
+        "groupTitle": "ESPAÑA",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TvG2.jpg/225px-TvG2.jpg",
+        "chanel": "TvG 2 HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://amodino-crtvg.flumotion.com/playlist.m3u8"
+        ]
+    },
+    "EITB 1 HD Web": {
+        "groupTitle": "ESPAÑA",
+        "coverImg": "https://images11.eitb.eus/multimedia/recursos/generales/tira_zuzenean_zuria/etb1_zuzenean.png",
+        "chanel": "EITB 1 HD Web",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8"
+        ]
+    },
+    "EITB 2 HD Web": {
+        "groupTitle": "ESPAÑA",
+        "coverImg": "https://images11.eitb.eus/multimedia/images/2018/07/19/2315585/20180719091634_logostreamingetb2970_foto960.jpg",
+        "chanel": "EITB 2 HD Web",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8"
+        ]
+    },
+    "EITB BASQUE Web": {
+        "groupTitle": "ESPAÑA",
+        "coverImg": "https://images14.eitb.eus/multimedia/recursos/generales/img_facebook_eitbcom.jpg",
+        "chanel": "EITB BASQUE Web",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8"
+        ]
+    },
+    "La1 tve": {
+        "groupTitle": "ESPAÑA",
+        "coverImg": "https://www.coolstreaming.us/img/ch/image41615263838.jpg",
+        "chanel": "La1 tve",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main.m3u8"
+        ]
+    },
+    "La2 tve": {
+        "groupTitle": "ESPAÑA",
+        "coverImg": "https://www.coolstreaming.us/img/ch/image94583436102.jpg",
+        "chanel": "La2 tve",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8"
+        ]
+    },
+    "TV Mexiquense Web": {
+        "groupTitle": "NACIONALES",
+        "coverImg": "http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/251dfafd-4c6c-4ad6-aa84-1496db6f849b.png",
+        "chanel": "TV Mexiquense Web",
+        "country": "MX",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8"
+        ]
+    },
+    "HBO HD": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",
+        "chanel": "HBO HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://181.78.105.146:6060/play/a00h",
+            "http://168.228.194.33:48001/play/a034/index.m3u8",
+            "http://167.250.222.35:16000/play/a040/index.m3u8",
+            "http://45.179.140.242:8000/play/a0kt"
+        ]
+    },
+    "HBO 2 HD": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",
+        "chanel": "HBO 2 HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://45.179.140.242:8000/play/a0l9"
+        ]
+    },
+    "HBO Plus": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
+        "chanel": "HBO Plus",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://181.78.105.146:6060/play/a04f",
+            "http://45.179.140.242:8000/play/a0la"
+        ]
+    },
+    "HBO Xtreme": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",
+        "chanel": "HBO Xtreme",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://181.78.105.146:6060/play/a00l",
+            "http://45.179.140.242:8000/play/a0lb"
+        ]
+    },
+    "Paramount Channel": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png",
+        "chanel": "Paramount Channel",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://181.78.105.146:2000/play/a01s/index.m3u8"
+        ]
+    },
+    "MULTIPREMIER HD": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://etb.com/hogares/img1/guia/logos/logo-multi.jpg",
+        "chanel": "MULTIPREMIER HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.234.230.226:8010/play/a00h/index.m3u8"
+        ]
+    },
+    "WARNER CHANNEL HD": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png",
+        "chanel": "WARNER CHANNEL HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://45.166.92.22:58001/play/a049/index.m3u8"
+        ]
+    },
+    "A&E": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",
+        "chanel": "A&E",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://45.166.92.22:58001/play/a00p/index.m3u8",
+            "http://181.78.105.146:2000/play/a03f/index.m3u8",
+            "https://webudit.webdicdn.lol/lb/premium302/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me"
+        ]
+    },
+    "A&E HD": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",
+        "chanel": "A&E HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.53.153.21:8001/play/a01s/index.m3u8"
+        ]
+    },
+    "AXN": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png",
+        "chanel": "AXN",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://181.78.105.146:2000/play/a05y/index.m3u8"
+        ]
+    },
+    "UNIVERSAL HD": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",
+        "chanel": "UNIVERSAL HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.53.153.21:8001/play/a02s/index.m3u8",
+            "http://177.93.45.155:6143/play/a00d/index.m3u8"
+        ]
+    },
+    "UNIVERSAL": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",
+        "chanel": "UNIVERSAL",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://45.179.140.242:8000/play/a0jw",
+            "http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30386.m3u8"
+        ]
+    },
+    "TNT HD-": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",
+        "chanel": "TNT HD-",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.93.45.155:6143/play/a00l/index.m3u8"
+        ]
+    },
+    "STAR Channel": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png",
+        "chanel": "STAR Channel",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.93.45.155:6143/play/a00i/index.m3u8",
+            "http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38000.m3u8",
+            "http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30369.m3u8"
+        ]
+    },
+    "SONY": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "http://190.83.119.254:8000/playlist/tvg-logo/a0x8.png",
+        "chanel": "SONY",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://177.93.45.155:6143/play/a01r/index.m3u8",
+            "http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30367.m3u8"
+        ]
+    },
+    "DHE": {
+        "groupTitle": "ENTRETENIMIENTO",
+        "coverImg": "https://cdn.mitvstatic.com/channels/cl_dhe_m.png",
+        "chanel": "DHE",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://170.254.172.10:8000/play/a041/index.m3u8",
+            "http://187.102.208.152:8000/play/a09p/index.m3u8",
+            "http://190.92.7.19:8000/play/a00p/index.m3u8",
+            "http://190.26.217.123:8000/play/a15b/index.m3u8",
+            "https://v3.playerlatino.live/stream/m3u8/844|user-agent=Lavf/57.71.001",
+            "http://181.78.8.90:16123/play/ch14",
+            "http://190.27.253.211:8000/play/a06z/index.m3u8",
+            "http://181.78.21.60:16123/play/ch14"
+        ]
+    },
+    "Fox Deportes XumoTv": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "http://media.foxdeportes.com/assets/images/fxd_logo_450.png",
+        "chanel": "Fox Deportes XumoTv",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://live-content.xumo.com/189/content/XM0K6VHYA4V46G/23906297/master.m3u8"
+        ]
+    },
+    "TNT Sports": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "-",
+        "chanel": "TNT Sports",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8"
+        ]
+    },
+    "EVENTOS TNT Sports  Brasil": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "http://www.latinspots.com/files/notas/Gnota_56697.jpg",
+        "chanel": "EVENTOS TNT Sports  Brasil",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8"
+        ]
+    },
+    "EVENTOS TNT Sports 2 Brasil": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "http://www.latinspots.com/files/notas/Gnota_56697.jpg",
+        "chanel": "EVENTOS TNT Sports 2 Brasil",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8"
+        ]
+    },
+    "EVENTOS TNT Sports 3 Brasil": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "http://www.latinspots.com/files/notas/Gnota_56697.jpg",
+        "chanel": "EVENTOS TNT Sports 3 Brasil",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8"
+        ]
+    },
+    "EVENTOS TNT Sports 4 Brasil": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "http://www.latinspots.com/files/notas/Gnota_56697.jpg",
+        "chanel": "EVENTOS TNT Sports 4 Brasil",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8"
+        ]
+    },
+    "EVENTOS TNT Sports 5 Brasil": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "http://www.latinspots.com/files/notas/Gnota_56697.jpg",
+        "chanel": "EVENTOS TNT Sports 5 Brasil",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8"
+        ]
+    },
+    "SportsNews Highlights": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://files.elfsightcdn.com/90539f53-3c3e-4026-b9dc-19775f1b6f8f/bf47b616-3a0b-436d-9736-e1827736fb33/snhtv.png",
+        "chanel": "SportsNews Highlights",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-sportsnewshigh-ono/playlist.m3u8"
+        ]
+    },
+    "SportsGrid": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://pbs.twimg.com/profile_images/1208744581656928256/nMSHTKmZ_400x400.png",
+        "chanel": "SportsGrid",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8"
+        ]
+    },
+    "NESN HD": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://nesncom.files.wordpress.com/2013/07/nesn-ticket-white.png",
+        "chanel": "NESN HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/817.ts",
+            "https://webudit.webdicdn.lol/lb/premium762/index.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me"
+        ]
+    },
+    "Marquee Sports Network": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://dupvhm5r1oaxt.cloudfront.net/uploads/2020/01/CUBS_MSN_Logo_RGB_Red.png",
+        "chanel": "Marquee Sports Network",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/2463.ts"
+        ]
+    },
+    "Sportsnet New York": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1280px-SNY_logo.svg.png",
+        "chanel": "Sportsnet New York",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/866.ts"
+        ]
+    },
+    "NBCSPORTS BAY AREA": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/1280px-NBC_Sports_Bay_Area.png",
+        "chanel": "NBCSPORTS BAY AREA",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/805.ts"
+        ]
+    },
+    "NBCSPORTS BOSTON": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png",
+        "chanel": "NBCSPORTS BOSTON",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/807.ts"
+        ]
+    },
+    "NBCSPORTS PHILADELPHIA": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/en/f/f3/NBC_Sports_Philadelphia.jpg",
+        "chanel": "NBCSPORTS PHILADELPHIA",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/812.ts"
+        ]
+    },
+    "NBCSPORTS WASHINGTON": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png",
+        "chanel": "NBCSPORTS WASHINGTON",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/814.ts"
+        ]
+    },
+    "AT&T SportsNet Pittsburgh HD": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png",
+        "chanel": "AT&T SportsNet Pittsburgh HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://ufospeeds.com:2095/live/Blockchain/Blockchain6969/10812.m3u8"
+        ]
+    },
+    "AT&T SportsNet Pittsburgh-": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png",
+        "chanel": "AT&T SportsNet Pittsburgh-",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://cord-cutter.net:8080/jesus1/jesus1/108178"
+        ]
+    },
+    "AT&T SportsNet Pittsburgh": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png",
+        "chanel": "AT&T SportsNet Pittsburgh",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://cord-cutter.net:8080/live/jesus1/jesus1/108178.m3u8"
+        ]
+    },
+    "ADSPORTS 1": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/93/69/69/936969b91a00ab6fc520e7b5b7630e21.jpg",
+        "chanel": "ADSPORTS 1",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8"
+        ]
+    },
+    "ADSPORTS 2": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://pbs.twimg.com/media/DFbiT91XoAArm0_.png",
+        "chanel": "ADSPORTS 2",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8"
+        ]
+    },
+    "STADIUM SPORTS": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg",
+        "chanel": "STADIUM SPORTS",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8",
+            "https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?id=eroz_brebes.m3u8"
+        ]
+    },
+    "Sportsgrid Network": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://cdn.newswire.com/files/x/0a/7a/5f59b76a6c811cf30d585c5d2ac6.png",
+        "chanel": "Sportsgrid Network",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8"
+        ]
+    },
+    "LSN SPORTS NETWORK": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://spng.pinpng.com/pngs/s/446-4461393_1519835956947-lsn-logo-red-16x9images-lax-sports-network.png",
+        "chanel": "LSN SPORTS NETWORK",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
+        ]
+    },
+    "Tennis Channel": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://i.imgur.com/WEM9B83.png",
+        "chanel": "Tennis Channel",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+            "https://webudit.webdicdn.lol/lb/premium40/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me"
+        ]
+    },
+    "Tennis Channel HD": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "https://i.imgur.com/wcmQ30R.png",
+        "chanel": "Tennis Channel HD",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8"
+        ]
+    },
+    "Telemundo 52 L.A.": {
+        "groupTitle": "USA Latinos",
+        "coverImg": "https://static.wikia.nocookie.net/tvstations/images/a/a7/Telemundo_52_2018.png",
+        "chanel": "Telemundo 52 L.A.",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE"
+        ]
+    },
+    "ION Plus": {
+        "groupTitle": "USA",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/2560px-ION_Plus_logo.svg.png",
+        "chanel": "ION Plus",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-433.frequency.stream/433/hls/master/playlist.m3u8"
+        ]
+    },
+    "CBS 8 San Diego": {
+        "groupTitle": "USA",
+        "coverImg": "https://imgx.fubo.tv/station_logos/kfmb_c.png",
+        "chanel": "CBS 8 San Diego",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/3882.m3u8"
+        ]
+    },
+    "Unsolved Mysteries": {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/12/USBB3200018Q6_20210824T091344.png",
+        "chanel": "Unsolved Mysteries",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_unsolvedmysteries_001.m3u8"
+        ]
+    },
+    "AXS TV NOW": {
+        "groupTitle": "USA",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1024px-AXS_TV_logo.svg.png",
+        "chanel": "AXS TV NOW",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8",
+            "https://d6ywct4o2ksou.cloudfront.net/hls/720phi/playlist.m3u8"
+        ]
+    },
+    "WMUR 9": {
+        "groupTitle": "USA",
+        "coverImg": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wmur/logo.png",
+        "chanel": "WMUR 9",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://linear-33.frequency.stream/33/hls/master/playlist.m3u8"
+        ]
+    },
+    "The CW New York NY (WPIX-DT1)": {
+        "groupTitle": "USA",
+        "coverImg": "https://keepmystation.com/wp-content/uploads/2022/11/WPIX-logo-white.png",
+        "chanel": "The CW New York NY (WPIX-DT1)",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://webudit.webdicdn.lol/lb/premium771/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me"
+        ]
+    },
+    "Movie Sphere": {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/USBA43000017Q_20210126T072616.png",
+        "chanel": "Movie Sphere",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8"
+        ]
+    },
+    "FilmRise Free Movies": {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/78/USAJ40000072X20200730102745.png",
+        "chanel": "FilmRise Free Movies",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmrisefreemovies_001.m3u8"
+        ]
+    },
+    "FilmRise Action": {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/84/USBB3200020ID_20210824T091339.png",
+        "chanel": "FilmRise Action",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmriseaction_001.m3u8"
+        ]
+    },
+    "Maverick Black Cinema": {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/USAJ3000007MT20200730102745.png",
+        "chanel": "Maverick Black Cinema",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://995059ba59a44c949b7b00ce255a4861.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MaverickBlackCinema/playlist.m3u8"
+        ]
+    },
+    "CINEVAULT 80's": {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png",
+        "chanel": "CINEVAULT 80's",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8",
+            "https://fb9770c9cf584d64b3c5e3a26637d5ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cinevault80s/playlist.m3u8"
+        ]
+    },
+    "CINEVAULT: Westerns": {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png",
+        "chanel": "CINEVAULT: Westerns",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CinevaultWesterns/playlist.m3u8"
+        ]
+    },
+    "FilmRise Western": {
+        "groupTitle": "USA",
+        "coverImg": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/USBB32000196O_20210824T091341.png",
+        "chanel": "FilmRise Western",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmrisewestern_001.m3u8"
+        ]
+    },
+    "USA Network": {
+        "groupTitle": "USA",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png",
+        "chanel": "USA Network",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/898.ts",
+            "https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/898.m3u8",
+            "https://webudit.webdicdn.lol/lb/premium343/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me",
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/847.ts",
+            "https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/847.m3u8"
+        ]
+    },
+    "Showtime": {
+        "groupTitle": "USA",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png",
+        "chanel": "Showtime",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/180.ts",
+            "https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/180.m3u8",
+            "https://webudit.webdicdn.lol/lb/premium333/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me"
+        ]
+    },
+    "Showtime West": {
+        "groupTitle": "USA",
+        "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png",
+        "chanel": "Showtime West",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/186.ts",
+            "https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/186.m3u8"
+        ]
+    },
+    "SPECTRUM SPORTSNET LA DODGERS": {
+        "groupTitle": "DEPORTES",
+        "coverImg": "http://p2086.securepoint.io:2086/images/81b30a9bc54cc6a21a9e6ff71826a693.png",
+        "chanel": "SPECTRUM SPORTSNET LA DODGERS",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://cord-cutter.net:8080/jesus1/jesus1/31636",
+            "https://webudit.webdicdn.lol/lb/premium764/index.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me"
+        ]
+    },
+    "COL| Cablenoticias": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/6397e0a8c21ef6a4bac5a777a71e7f01.png",
+        "chanel": "COL| Cablenoticias",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155805"
+        ]
+    },
+    "COL| Canal Uno": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/cd4425427821cc583cfb026e619fa062.png",
+        "chanel": "COL| Canal Uno",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1066863"
+        ]
+    },
+    "CARACOL": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png",
+        "chanel": "CARACOL",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155787"
+        ]
+    },
+    "CARACOL opc2": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png",
+        "chanel": "CARACOL opc2",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155783"
+        ]
+    },
+    "Caracol Internacional": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/9fc22b232a8197e3e6b09ccc8c4846f2.png",
+        "chanel": "Caracol Internacional",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2120"
+        ]
+    },
+    "COL| CITY TV": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/3c9c23cf3b3110edd5de217492ba23bf.png",
+        "chanel": "COL| CITY TV",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1092275"
+        ]
+    },
+    "COL| NTN24": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/d94d3dedf5efcb70fd4c5ec164d62aaa.png",
+        "chanel": "COL| NTN24",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/41815"
+        ]
+    },
+    "COL| RCN": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",
+        "chanel": "COL| RCN",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1087192"
+        ]
+    },
+    "COL| RCN opc2": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",
+        "chanel": "COL| RCN opc2",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2121"
+        ]
+    },
+    "COL| Señal Colombia": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/30e73c310da7d353d9a9bf46213c1135.png",
+        "chanel": "COL| Señal Colombia",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155811"
+        ]
+    },
+    "COL| TeleAntioquia": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/4e7ca7d40c3fcf1b23f76af0d9f7235a.png",
+        "chanel": "COL| TeleAntioquia",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155801"
+        ]
+    },
+    "COL| cali tv": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLenEpqBsZoYkOFBD-XdENBTsz9CEwWrjqA&usqp=CAU",
+        "chanel": "COL| cali tv",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5ab772334c39c.streamlock.net:443/live-calitv/_definst_/calitv1/chunklist_w44416927_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPVM1S1BjVzM5WF9raWFzNllvanhGZERVX25RbG5kU0lSRGROUldvMk1MUlk9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?190.60.36.91"
+        ]
+    },
+    "COL| Tele-pacifico": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "http://streamgo.vip:8008/images/f661ac88786c79fb80ecb9bde42fa929.png",
+        "chanel": "COL| Tele-pacifico",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47693"
+        ]
+    },
+    "COL| tv agro": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFstbzvymPkISwyrD51HIU-sHFVCen1oI1Sg&usqp=CAU",
+        "chanel": "COL| tv agro",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2137"
+        ]
+    },
+    "COL| telecafe": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_966xABJ3qeFrVWPMkt9qDvNF1DC8O5wdA&usqp=CAU",
+        "chanel": "COL| telecafe",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155810"
+        ]
+    },
+    "COL| cosmovision": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZEiRQZQuiiMf5k3E6hPIdYofCzy5mlSwKA&usqp=CAU",
+        "chanel": "COL| cosmovision",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://magmas5.com:8000/Oscar86/40473/150372"
+        ]
+    },
+    "COL| Eureka": {
+        "groupTitle": "⭐️ Colombia",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjX-rL_ABmrFD6AVNf7IsSHbsa2dhJJ-NWg&usqp=CAU",
+        "chanel": "COL| Eureka",
+        "country": "CO",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8"
+        ]
+    },
+    "CINE| HBO Family": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-HBO-family.png",
+        "chanel": "CINE| HBO Family",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4017"
+        ]
+    },
+    "CINE| HBO POP": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-HBO-pop.png",
+        "chanel": "CINE| HBO POP",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47445"
+        ]
+    },
+    "CINE| HBO signature": {
+        "groupTitle": "",
+        "coverImg": "http://descargas.podzone.net/logos/-HBO-signature.png",
+        "chanel": "CINE| HBO signature",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155796"
+        ]
+    },
+    "CINE| Cine Latino": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-cine-latino.png",
+        "chanel": "CINE| Cine Latino",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4136"
+        ]
+    },
+    "CINE| Claro Cinema": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-claro-cinema.png",
+        "chanel": "CINE| Claro Cinema",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4145"
+        ]
+    },
+    "CINE| DHE": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-DHE.png",
+        "chanel": "CINE| DHE",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/24180"
+        ]
+    },
+    "CINE| universal premier": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-universal-premier.png",
+        "chanel": "CINE| universal premier",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHI1phC-Npv73caM2Q53jCkc"
+        ]
+    },
+    "CINE| SYFY": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-SYFY.png",
+        "chanel": "CINE| SYFY",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/3958"
+        ]
+    },
+    "CINE| CINEMA DINAMITA": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-cinema-dinamita.png",
+        "chanel": "CINE| CINEMA DINAMITA",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4142"
+        ]
+    },
+    "CINE| I-SAT": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-I-SAT.png",
+        "chanel": "CINE| I-SAT",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155798"
+        ]
+    },
+    "CINE| EUROPA EUROPA": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-europa-europa.png",
+        "chanel": "CINE| EUROPA EUROPA",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33359"
+        ]
+    },
+    "CINE| tu cine": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "https://dl.dropboxusercontent.com/scl/fi/lrj2k8548eh7ug0ojf9b2/tucine.png?rlkey=e4o80v5ja2b8b6bq5d8u8e69c&dl=0",
+        "chanel": "CINE| tu cine",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/7981"
+        ]
+    },
+    "CINE| fmtv fusion": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "https://dl.dropboxusercontent.com/scl/fi/2uos7rleuxwdig6i5z23k/fmtv.png?rlkey=fyoa2s4fxlp4rmvd0zlcagokq&dl=0",
+        "chanel": "CINE| fmtv fusion",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://s2.tvdatta.com:3307/hybrid/play.m3u8"
+        ]
+    },
+    "CINE| lifetime": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-lifetime.png",
+        "chanel": "CINE| lifetime",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155873"
+        ]
+    },
+    "CINE| SUNDANCE TV": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-sundance.png",
+        "chanel": "CINE| SUNDANCE TV",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4101"
+        ]
+    },
+    "CINE| MORBID TV": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-morbid-tv.png",
+        "chanel": "CINE| MORBID TV",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33364"
+        ]
+    },
+    "CINE| CINE ESTELAR": {
+        "groupTitle": "⭐️ Cine Premium",
+        "coverImg": "http://descargas.podzone.net/logos/-cine-estelar.png",
+        "chanel": "CINE| CINE ESTELAR",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1156007"
+        ]
+    },
+    "CUL| Discovery Channel": {
+        "groupTitle": "⭐️ Cultura",
+        "coverImg": "http://descargas.podzone.net/logos/-discovery-channel.png",
+        "chanel": "CUL| Discovery Channel",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155807"
+        ]
+    },
+    "CUL| Discovery Familia": {
+        "groupTitle": "⭐️ Cultura",
+        "coverImg": "https://dl.dropboxusercontent.com/scl/fi/m1xje3v01pn55zyn25lfe/Discoveryfami.png?rlkey=mwtraqj9ymtbflwsql7inctxc&dl=0",
+        "chanel": "CUL| Discovery Familia",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M"
+        ]
+    },
+    "CUL| Discovery Investigation": {
+        "groupTitle": "⭐️ Cultura",
+        "coverImg": "http://descargas.podzone.net/logos/-discovery-ID.png",
+        "chanel": "CUL| Discovery Investigation",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4123"
+        ]
+    },
+    "CUL| Discovery SCI": {
+        "groupTitle": "⭐️ Cultura",
+        "coverImg": "http://descargas.podzone.net/logos/-discovery-science.png",
+        "chanel": "CUL| Discovery SCI",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155818"
+        ]
+    },
+    "CUL| History Channel": {
+        "groupTitle": "⭐️ Cultura",
+        "coverImg": "http://descargas.podzone.net/logos/-history.png",
+        "chanel": "CUL| History Channel",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155804"
+        ]
+    },
+    "CUL| HGTV": {
+        "groupTitle": "⭐️ Cultura",
+        "coverImg": "http://descargas.podzone.net/logos/-HGTV.png",
+        "chanel": "CUL| HGTV",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155823"
+        ]
+    },
+    "NOV| PASIONES": {
+        "groupTitle": "⭐️ Telenovelas",
+        "coverImg": "http://descargas.podzone.net/logos/-pasiones.png",
+        "chanel": "NOV| PASIONES",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2010"
+        ]
+    },
+    "NOV| TLNOVELAS": {
+        "groupTitle": "⭐️ Telenovelas",
+        "coverImg": "https://dl.dropboxusercontent.com/scl/fi/gaa49c3r13f4s8b60qigr/1689817058186.png?rlkey=0k2khkzbkemwzseozd6bleimx&dl=0",
+        "chanel": "NOV| TLNOVELAS",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2031"
+        ]
+    },
+    "NOV| TL NOVELAS UNIVISION": {
+        "groupTitle": "⭐️ Telenovelas",
+        "coverImg": "http://descargas.podzone.net/logos/-univision.png",
+        "chanel": "NOV| TL NOVELAS UNIVISION",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2038"
+        ]
+    },
+    "INF| CARTOON NETWORK": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "http://descargas.podzone.net/logos/-cartoon-network.png",
+        "chanel": "INF| CARTOON NETWORK",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4063"
+        ]
+    },
+    "INF| latino kids": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-TS7q6ii5E570ki-MXurqbh9AKonahFQ5g&usqp=CAU",
+        "chanel": "INF| latino kids",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://6362ca6f1fc28.streamlock.net:443/8062/8062/chunklist_w112073847.m3u8"
+        ]
+    },
+    "INF|los picapiedras": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbOsnQQVqj13Kj_awAC_exQQ_glLDoJ8pkQ&usqp=CAU",
+        "chanel": "INF|los picapiedras",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1349"
+        ]
+    },
+    "INF|bob esponja": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXe1ZtobIX19VFVbKyg53xwlmsQrcqa9_A4w&usqp=CAU",
+        "chanel": "INF|bob esponja",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1312"
+        ]
+    },
+    "INF|el pajaro loco": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlW0f2siItaWBfHeSaTD6iBtJFHVy0JiSyIQ&usqp=CAU",
+        "chanel": "INF|el pajaro loco",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1338"
+        ]
+    },
+    "INF|la pantera rosa": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_La6kE6J93gv1hoZFGBZiw3gpYewqb_nHsg&usqp= CAU",
+        "chanel": "INF|la pantera rosa",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1457"
+        ]
+    },
+    "INF|thundercats": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsSR8pJTonhITKLMUj84oR18dCkzqHWTSsDw&usqp=CAU",
+        "chanel": "INF|thundercats",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1263"
+        ]
+    },
+    "INF|pokemon": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRssFTYcYQqiDTfG2LGzr6EQXXZ72_1pv8KHA&usqp=CAU",
+        "chanel": "INF|pokemon",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1201"
+        ]
+    },
+    "INF|futurama": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWfkeg3_GMYwYpHghe_MIHu5SEZ08Lz8xKdQ&usqp=CAU",
+        "chanel": "INF|futurama",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1253"
+        ]
+    },
+    "INF|tom & jerry": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX4bvHd6j8n_n9rocdg6A2KFhsrp-fQsy_-Q&usqp=CAU",
+        "chanel": "INF|tom & jerry",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1363"
+        ]
+    },
+    "INF| spiderman": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjnRcqxlC9COnbKXQKQg7QVdJjaMefyl-4ew&usqp=CAU",
+        "chanel": "INF| spiderman",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1358"
+        ]
+    },
+    "INF|ben 10 fuerza alienígena": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1IrDaVDRlEM7JJ89bfnAgaDwHamIqCamF6Q&usqp=CAU",
+        "chanel": "INF|ben 10 fuerza alienígena",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1387"
+        ]
+    },
+    "INF| jimmy neutron": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGYhaEhS5h8Znw7EDpFqBe-KXFy5tcP2xLQ&usqp=CAU",
+        "chanel": "INF| jimmy neutron",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1439"
+        ]
+    },
+    "INF| pinky & cerebro": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRieDw3zDGCKgVzUlZckrZVpCZTVkr9BGFwA&usqp=CAU",
+        "chanel": "INF| pinky & cerebro",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1231"
+        ]
+    },
+    "INF|los Simpsons": {
+        "groupTitle": "⭐️ Infantiles",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUl5HsDRyMmq38G6So4j36aJY3fnRqsM3sJQ&usqp=CAU",
+        "chanel": "INF|los Simpsons",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1305"
+        ]
+    },
+    "MUS| circuito pop": {
+        "groupTitle": "⭐️ Musica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBsibaYYBgicH-aG7UV2xJhv8cepw8nOViA&usqp=CAU",
+        "chanel": "MUS| circuito pop",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://cdapop.streaming.ws:443/circuitopoptv/live/chunklist_w1072026756.m3u8"
+        ]
+    },
+    "MUS| hits 360": {
+        "groupTitle": "⭐️ Musica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQlnF3qpdXR3X5v4ms3zeKR8TxSSxM05BxA&usqp=CAU",
+        "chanel": "MUS| hits 360",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://cdn.essastream.com:3023/live/hits360tvlive.m3u8"
+        ]
+    },
+    "MUS| tocahits": {
+        "groupTitle": "⭐️ Musica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotv_igzlWi45ybDzX_1GalB_wH7PtKayicA&usqp=CAU",
+        "chanel": "MUS| tocahits",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://panel.miplay.cl:8081/mix247tv/tracks-v1a1/mono.m3u8"
+        ]
+    },
+    "MUS| top latino": {
+        "groupTitle": "⭐️ Musica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrXQrXpP0FluOiLFtZMlvlnPMu-pYiMatkQ&usqp=CAU",
+        "chanel": "MUS| top latino",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8"
+        ]
+    },
+    "MUS| tele musica": {
+        "groupTitle": "⭐️ Musica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJAjqTdOWjFMG9CPs7w_HKkmhB2vx2_5rTg&usqp=CAU",
+        "chanel": "MUS| tele musica",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://canal.mediaserver.com.co/live/telemusica.m3u8"
+        ]
+    },
+    "CR| TELESISTEMA": {
+        "groupTitle": "⭐️ Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&usqp=CAU",
+        "chanel": "CR| TELESISTEMA",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://video20.klm99.com:3621/hybrid/play.m3u8"
+        ]
+    },
+    "CR| Tele red": {
+        "groupTitle": "⭐️ Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScU0IdCCCR2mtKHb7D9_A9ybiCC2cm1-EKgQ&usqp=CAU",
+        "chanel": "CR| Tele red",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://video20.klm99.com:3558/hybrid/play.m3u8"
+        ]
+    },
+    "CR| CANAL 1": {
+        "groupTitle": "⭐️ Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKPG5piatlxvTYlqm8-gdB6qOzJAPusjWRSw&usqp=CAU",
+        "chanel": "CR| CANAL 1",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://video20.klm99.com:3993/hybrid/play.m3u8"
+        ]
+    },
+    "CR| coto brus tv": {
+        "groupTitle": "⭐️ Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUmg188E2X2bAX9Vj2B542ISVrz5D3LkgTg&usqp=CAU",
+        "chanel": "CR| coto brus tv",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8"
+        ]
+    },
+    "CR| teve norte": {
+        "groupTitle": "⭐️ Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuH2pNcjfEx1y0_sfIIg287VbEw-yJ5L6ig&usqp=CAU",
+        "chanel": "CR| teve norte",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5fd8fec96951d.streamlock.net:443/TVN/CH14.stream_720p/chunklist_w425777611.m3u8"
+        ]
+    },
+    "CR| garabito tv": {
+        "groupTitle": "⭐️ Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfLRTXz2TSfm1mnaockF7rWtYShJTJ8wMzQ&usqp=CAU",
+        "chanel": "CR| garabito tv",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://59ef525c24caa.streamlock.net:443/garabitoTV/garabitotv/chunklist_w1463613344.m3u8"
+        ]
+    },
+    "CR| los santos tv": {
+        "groupTitle": "⭐️ Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkAHmCkkPzREUAjSuIcHtIxhLdD2QIFI9FQ&usqp=CAU",
+        "chanel": "CR| los santos tv",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://lstv.duckdns.org:449/hls/lstv.m3u8"
+        ]
+    },
+    "CR| zurqui tv": {
+        "groupTitle": "⭐️ Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qp48vAYubW5h4Tupl_Pzwfb7U-YQx0DOyA&usqp=CAU",
+        "chanel": "CR| zurqui tv",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
+        ]
+    },
+    "CR| telebrunca": {
+        "groupTitle": "⭐️ Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4uLGOuQaNRSDK8lSiCjICHX0Ld_weJoskA&usqp=CAU",
+        "chanel": "CR| telebrunca",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1244906677.m3u8"
+        ]
+    },
+    "CR| guatuso tv": {
+        "groupTitle": "⭐️ Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBfQDrgA2AgPmHZaHHwtiDxGn3Wp1XnoI6g&usqp=CAU",
+        "chanel": "CR| guatuso tv",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://5cf4a2c2512a2.streamlock.net:443/8162/8162/chunklist_w1960322809.m3u8"
+        ]
+    },
+    "CR| nosara tv": {
+        "groupTitle": "⭐️ Costa Rica",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmicNPv2oKTqz_SanYW6rhyFP-yNtbBMoJRw&usqp=CAU",
+        "chanel": "CR| nosara tv",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "https://stmv.streamingvip.click:443/tvnosara2/tvnosara2/chunklist_w846594311.m3u8"
+        ]
+    },
+    "TELEMUNDO": {
+        "groupTitle": "⭐️ Usa Latinos",
+        "coverImg": "http://descargas.podzone.net/logos/-telemundo.png",
+        "chanel": "TELEMUNDO",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHBaGok1oX_0n3gxWAHVpjUw"
+        ]
+    },
+    "TELEMUNDO Philadelphia": {
+        "groupTitle": "⭐️ Usa Latinos",
+        "coverImg": "http://descargas.podzone.net/logos/-telemundo.png",
+        "chanel": "TELEMUNDO Philadelphia",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://magmas5.com:8000/Oscar86/40473/148724"
+        ]
+    },
+    "UNIMAS Philadelphia": {
+        "groupTitle": "⭐️ Usa Latinos",
+        "coverImg": "http://descargas.podzone.net/logos/-unimas.png",
+        "chanel": "UNIMAS Philadelphia",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://magmas5.com:8000/Oscar86/40473/148895"
+        ]
+    },
+    "UNIVISION NEW-YORK": {
+        "groupTitle": "⭐️ Usa Latinos",
+        "coverImg": "http://descargas.podzone.net/logos/-univision.png",
+        "chanel": "UNIVISION NEW-YORK",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://magmas5.com:8000/Oscar86/40473/148711"
+        ]
+    },
+    "UNIVISION Philadelphia": {
+        "groupTitle": "⭐️ Usa Latinos",
+        "coverImg": "http://descargas.podzone.net/logos/-univision.png",
+        "chanel": "UNIVISION Philadelphia",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://magmas5.com:8000/Oscar86/40473/148725"
+        ]
+    },
+    "COL |  WIN SPORTS": {
+        "groupTitle": "⭐️ Deporte Colombia",
+        "coverImg": "http://descargas.podzone.net/logos/-win-sports.png",
+        "chanel": "COL |  WIN SPORTS",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155795"
+        ]
+    },
+    "COL | WIN SPORT+": {
+        "groupTitle": "⭐️ Deporte Colombia",
+        "coverImg": "https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",
+        "chanel": "COL | WIN SPORT+",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16723"
+        ]
+    },
+    "COL | WIN SPORT+ opc 2": {
+        "groupTitle": "⭐️ Deporte Colombia",
+        "coverImg": "https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",
+        "chanel": "COL | WIN SPORT+ opc 2",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/54738"
+        ]
+    },
+    "COL | WIN SPORT+ opc 3": {
+        "groupTitle": "⭐️ Deporte Colombia",
+        "coverImg": "https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",
+        "chanel": "COL | WIN SPORT+ opc 3",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16724"
+        ]
+    },
+    "AR | ESPN SPORTS 1": {
+        "groupTitle": "⭐️ Argentina Deporte",
+        "coverImg": "http://descargas.podzone.net/logos/-ESPN-1.png",
+        "chanel": "AR | ESPN SPORTS 1",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1915"
+        ]
+    },
+    "AR | ESPN SPORT 2": {
+        "groupTitle": "⭐️ Argentina Deporte",
+        "coverImg": "http://descargas.podzone.net/logos/-ESPN-2.png",
+        "chanel": "AR | ESPN SPORT 2",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1917"
+        ]
+    },
+    "AR | ESPN SPORT 3": {
+        "groupTitle": "⭐️ Argentina Deporte",
+        "coverImg": "http://descargas.podzone.net/logos/-ESPN-3.png",
+        "chanel": "AR | ESPN SPORT 3",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1919"
+        ]
+    },
+    "AR | ESPN SPORTS 4": {
+        "groupTitle": "⭐️ Argentina Deporte",
+        "coverImg": "http://descargas.podzone.net/logos/-ESPN-4.png",
+        "chanel": "AR | ESPN SPORTS 4",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1921"
+        ]
+    },
+    "AR | DIREC TV SPORTS": {
+        "groupTitle": "⭐️ Argentina Deporte",
+        "coverImg": "http://descargas.podzone.net/logos/-Directv-sports.png",
+        "chanel": "AR | DIREC TV SPORTS",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1912"
+        ]
+    },
+    "AR | DIREC TV DEPORTES 2": {
+        "groupTitle": "⭐️ Argentina Deporte",
+        "coverImg": "http://descargas.podzone.net/logos/-Directv-sports.png",
+        "chanel": "AR | DIREC TV DEPORTES 2",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1913"
+        ]
+    },
+    "STAR + opc1": {
+        "groupTitle": "⭐️ Deporte VIP",
+        "coverImg": "http://descargas.podzone.net/logos/-star+.png",
+        "chanel": "STAR + opc1",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://magmas5.com:8000/Oscar86/40473/160068"
+        ]
+    },
+    "STAR + opc2": {
+        "groupTitle": "⭐️ Deporte VIP",
+        "coverImg": "http://descargas.podzone.net/logos/-star+.png",
+        "chanel": "STAR + opc2",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://magmas5.com:8000/Oscar86/40473/160071"
+        ]
+    },
+    "STAR + opc3": {
+        "groupTitle": "⭐️ Deporte VIP",
+        "coverImg": "http://descargas.podzone.net/logos/-star+.png",
+        "chanel": "STAR + opc3",
+        "country": "",
+        "status":true,
+        "views":0,
+        "likes":0,
+        "Dislikes":0,
+        "link": [
+            "http://magmas5.com:8000/Oscar86/40473/152908"
+        ]
+    }
+}
